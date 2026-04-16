@@ -1,0 +1,49 @@
+# ────────────────────────────────────────────────────────
+# QIS Buchungsimport – Konfiguration
+# ────────────────────────────────────────────────────────
+# Diese Datei ist die einzige die du anpassen musst.
+# Speichern nach Änderungen, dann starten.command doppelklicken.
+
+kostenstellen:
+  # ── Aktive Kostenstellen ──────────────────────────────
+  - "P00422371"   # (Name bitte ergänzen)
+  - "P00482372"   # (Name bitte ergänzen)
+  - "P00822372"   # (Name bitte ergänzen)
+  - "P00442172"   # (Name bitte ergänzen)
+
+  # ── Weitere verfügbare Kostenstellen (auskommentiert) ─
+  # - "23000700"   # BWL VII, Eymann
+  # - "23000720"   # Haushaltsmittel JS
+  # - "23000740"   # Haushaltsmittel MR / Wirt.inform.III, Röglinger
+  # - "23004000"   # Haushaltsmittel NK
+  # - "23004050"   # Haushaltsmittel AO
+  # - "23764000"   # Investitionsmittel NK
+  # - "23764050"   # Investitionsmittel AO
+  # - "40000429"   # Literaturmittel JS
+  # - "40000434"   # Literaturmittel MR
+  # - "40000441"   # Literaturmittel NK
+  # - "40000442"   # Literaturmittel AO
+  # - "41710021"   # Ersatzmittel MR
+  # - "41920309"   # Ersatzmittel AO
+  # - "41920314"   # Ersatzmittel NK
+  # - "97130008"   # Sach- und Personalausgaben MR
+  # - "97130029"   # Freies Budget NK
+  # - "97130030"   # Freies Budget AO
+  # - "97130088"   # Sach- und Personalausgaben MR
+  # - "P23720740"  # FIM Studiengang
+  # - "P70102372"  # Restmittelkostenstelle TE
+  # - "P70262372"  # Gemeinsame Restmittelkostenstelle
+  # - "P00492371"  # Projektkostenstelle IncoTech4Seniors
+
+zeitraum:
+  # Modi: "vormonat", "aktueller_monat", "aktuelles_jahr", "manuell"
+  # Bei "manuell": datum_von und datum_bis angeben (Format: TT.MM.JJJJ)
+  modus: "aktuelles_jahr"
+  datum_von: "01.01.2026"   # nur relevant bei modus: "manuell"
+  datum_bis: "31.12.2026"   # nur relevant bei modus: "manuell"
+
+# Zielordner für heruntergeladene und verarbeitete Dateien
+ausgabe_ordner: "~/Downloads/qis_downloads"
+
+# Browser sichtbar anzeigen? (nur für Fehlersuche auf true setzen)
+debug_browser: false

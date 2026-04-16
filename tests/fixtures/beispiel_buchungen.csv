@@ -1,0 +1,6 @@
+Spalte0;Spalte1;Spalte2;Spalte3;Spalte4;Spalte5;Spalte6;Spalte7;Spalte8;Betrag;BuchungsTyp;Spalte11;Spalte12;Spalte13;Spalte14;Spalte15;Spalte16;Spalte17;Spalte18;Spalte19;Spalte20;Spalte21;Spalte22;Buchungsdatum;Spalte24;BuchungsIdentifizierer;Spalte26;Spalte27;Spalte28;Spalte29;Bezeichnung;Spalte31;Spalte32;Spalte33;Spalte34;Kostenart_Original;Erlös- / Kostenart
+;;;;;;;;;1.234,56;Ausgabe;;;;;;;;;;;;;01.01.2024;;IDENT-001;;;;;Testbuchung Ausgabe;;;;;Büromaterial;8500
+;;;;;;;;;500,00;Bewilligung ohne Einnahme;;;;;;;;;;;;;02.01.2024;;IDENT-002;;;;;Testbuchung Bewilligung;;;;;Bewilligung;8600
+;;;;;;;;;200,00;Forderung;;;;;;;;;;;;;03.01.2024;;IDENT-003;;;;;Testbuchung Forderung;;;;;Forderung extern;8700
+;;;;;;;;;100,00;Verpflichtung;;;;;;;;;;;;;04.01.2024;;IDENT-004;;;;;Testbuchung Verpflichtung;;;;;Verpflichtung extern;8800
+;;;;;;;;;999,99;Irrelevant;;;;;;;;;;;;;05.01.2024;;IDENT-005;;;;;Wird gefiltert;;;;;Sonstiges;9999

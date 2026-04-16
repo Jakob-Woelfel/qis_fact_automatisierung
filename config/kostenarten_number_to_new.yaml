@@ -1,0 +1,792 @@
+'33330': Industrieertrag
+'40000': Industrieertrag
+'50020': Industrieertrag
+'50021': Industrieertrag
+'50022': Industrieertrag
+'50024': Industrieertrag
+'50025': Industrieertrag
+'50030': Industrieertrag
+'50035': Industrieertrag
+'50040': Industrieertrag
+'50041': Industrieertrag
+'50043': Industrieertrag
+'50044': Industrieertrag
+'50050': Industrieertrag
+'50060': Industrieertrag
+'50061': Industrieertrag
+'50062': Industrieertrag
+'50070': Industrieertrag
+'50100': Industrieertrag
+'50161': Industrieertrag
+'50162': Industrieertrag
+'50163': Industrieertrag
+'50200': Industrieertrag
+'50201': Industrieertrag
+'50210': Industrieertrag
+'50220': Industrieertrag
+'50231': Industrieertrag
+'50232': Industrieertrag
+'50261': Industrieertrag
+'50262': Industrieertrag
+'50263': Industrieertrag
+'50300': Industrieertrag
+'50361': Industrieertrag
+'50362': Industrieertrag
+'50363': Industrieertrag
+'50461': Industrieertrag
+'50462': Industrieertrag
+'50463': Industrieertrag
+'50561': Industrieertrag
+'50562': Industrieertrag
+'50563': Industrieertrag
+'50662': Industrieertrag
+'50701': Industrieertrag
+'50702': Industrieertrag
+'51010': Industrieertrag
+'51400': Industrieertrag
+'51502': Industrieertrag
+'51503': Industrieertrag
+'51510': Industrieertrag
+'51512': Industrieertrag
+'51522': Industrieertrag
+'51523': Industrieertrag
+'51524': Industrieertrag
+'51525': Industrieertrag
+'51526': Industrieertrag
+'51527': Industrieertrag
+'51528': Industrieertrag
+'51529': Industrieertrag
+'51530': Industrieertrag
+'51531': Industrieertrag
+'51532': Industrieertrag
+'51533': Industrieertrag
+'51534': Industrieertrag
+'51535': Industrieertrag
+'51536': Industrieertrag
+'51537': Industrieertrag
+'51538': Industrieertrag
+'51539': Industrieertrag
+'51540': Industrieertrag
+'51541': Industrieertrag
+'51542': Industrieertrag
+'51543': Industrieertrag
+'51544': Industrieertrag
+'51545': Industrieertrag
+'51546': Industrieertrag
+'51547': Industrieertrag
+'51548': Industrieertrag
+'51549': Industrieertrag
+'51550': Industrieertrag
+'51551': Industrieertrag
+'51553': Industrieertrag
+'51554': Industrieertrag
+'51555': Industrieertrag
+'51556': Industrieertrag
+'51559': Industrieertrag
+'51560': Industrieertrag
+'51561': Industrieertrag
+'51562': Industrieertrag
+'51565': Industrieertrag
+'51566': Industrieertrag
+'51570': Industrieertrag
+'51571': Industrieertrag
+'51572': Industrieertrag
+'51573': Industrieertrag
+'51575': Industrieertrag
+'51576': Industrieertrag
+'51577': Industrieertrag
+'51578': Industrieertrag
+'51590': Industrieertrag
+'51591': Industrieertrag
+'51592': Industrieertrag
+'51593': Industrieertrag
+'51594': Industrieertrag
+'51600': Industrieertrag
+'51601': Industrieertrag
+'51624': Industrieertrag
+'51625': Industrieertrag
+'51629': Industrieertrag
+'51710': Industrieertrag
+'53310': Industrieertrag
+'53320': Industrieertrag
+'54040': Industrieertrag
+'54051': Industrieertrag
+'54052': Industrieertrag
+'54911': Industrieertrag
+'5500': Investitionen Bauausgaben
+'5700': Investitionen Bauausgaben
+'57900': Industrieertrag
+'58110': Industrieertrag
+'60100': Sonstiger Bürobedarf
+'60500': Sonstige allgemeine Verwaltungsausgaben
+'60510': Sonstige allgemeine Verwaltungsausgaben
+'60512': Sonstige allgemeine Verwaltungsausgaben
+'60513': Sonstige allgemeine Verwaltungsausgaben
+'60514': Sonstige allgemeine Verwaltungsausgaben
+'60515': Sonstige allgemeine Verwaltungsausgaben
+'60517': Sonstige allgemeine Verwaltungsausgaben
+'60600': Sonstige allgemeine Verwaltungsausgaben
+'60601': Sonstiger Bürobedarf
+'60602': Sonstiger Bürobedarf
+'60612': Sonstige Investition, Geräteinstandhaltung
+'60790': Sonstiger Bürobedarf
+'61200': Vergabe von Aufträgen
+'61201': Sonstige Investition, Geräteinstandhaltung
+'61310': EDV/IT-Dienstleistungen
+'61320': Fotoarbeiten
+'61350': Recherche / Literatur
+'61351': Recherche / Literatur
+'61352': EDV/IT-Einrichtung Software
+'61380': Recherche / Literatur
+'61390': Sonstige allgemeine Verwaltungsausgaben
+'61400': Sonstige allgemeine Verwaltungsausgaben
+'61401': Sonstige allgemeine Verwaltungsausgaben
+'61420': Investitionen Bauausgaben
+'61500': Sonstige allgemeine Verwaltungsausgaben
+'61600': Sonstige Investition, Geräteinstandhaltung
+'61603': Sonstige Investition, Geräteinstandhaltung
+'61604': Sonstige Investition, Geräteinstandhaltung
+'61605': Sonstiger Bürobedarf
+'61610': Sonstige Investition, Geräteinstandhaltung
+'61625': Sonstige Investition, Geräteinstandhaltung
+'61635': Sonstige Investition, Geräteinstandhaltung
+'61636': Sonstige Investition, Geräteinstandhaltung
+'61700': Sonstige allgemeine Verwaltungsausgaben
+'61702': Sonstige allgemeine Verwaltungsausgaben
+'61705': Sonstige allgemeine Verwaltungsausgaben
+'61710': Sonstige allgemeine Verwaltungsausgaben
+'61750': Sonstige allgemeine Verwaltungsausgaben
+'61790': Vergabe von Aufträgen
+'61791': Vergabe von Aufträgen
+'6200': Gegenstände über 410
+'62000': Sonstige Personalkosten
+'621': Sonstige allgemeine Verwaltungsausgaben
+'62100': Sonstige Personalkosten
+'62319': Sonstige Personalkosten
+'62320': Sonstige Personalkosten
+'62323': Sonstige Personalkosten
+'62325': Sonstige Personalkosten
+'62326': Sonstige Personalkosten
+'62327': Sonstige Personalkosten
+'62328': Sonstige Personalkosten
+'62329': Sonstige Personalkosten
+'62330': Sonstige Personalkosten
+'62331': Sonstige Personalkosten
+'62332': Sonstige Personalkosten
+'62333': Sonstige Personalkosten
+'62334': Sonstige Personalkosten
+'62335': Sonstige Personalkosten
+'62337': Sonstige Personalkosten
+'62338': Sonstige Personalkosten
+'62339': Sonstige Personalkosten
+'62340': Sonstige Personalkosten
+'62342': Sonstige Personalkosten
+'62343': Sonstige Personalkosten
+'62344': Sonstige Personalkosten
+'62345': Sonstige Personalkosten
+'62348': Sonstige Personalkosten
+'62349': Sonstige Personalkosten
+'62364': Sonstige Personalkosten
+'62365': Sonstige Personalkosten
+'62366': Sonstige Personalkosten
+'62367': Sonstige Personalkosten
+'62368': Sonstige Personalkosten
+'62369': Sonstige Personalkosten
+'62370': Sonstige Personalkosten
+'62371': Sonstige Personalkosten
+'62372': Sonstige Personalkosten
+'62373': Sonstige Personalkosten
+'62374': Sonstige Personalkosten
+'62375': Sonstige Personalkosten
+'62376': Sonstige Personalkosten
+'62378': Sonstige Personalkosten
+'62379': Sonstige Personalkosten
+'62382': Sonstige Personalkosten
+'62383': Sonstige Personalkosten
+'62384': Sonstige Personalkosten
+'62386': Sonstige Personalkosten
+'62390': Sonstige Personalkosten
+'62391': Sonstige Personalkosten
+'62392': Sonstige Personalkosten
+'62393': Sonstige Personalkosten
+'62397': Sonstige Personalkosten
+'62398': Sonstige Personalkosten
+'62399': Sonstige Personalkosten
+'62400': Sonstige Personalkosten
+'62401': Sonstige Personalkosten
+'62402': Sonstige Personalkosten
+'62403': Sonstige Personalkosten
+'62404': Sonstige Personalkosten
+'62405': Sonstige Personalkosten
+'62406': Sonstige Personalkosten
+'62407': Sonstige Personalkosten
+'62408': Sonstige Personalkosten
+'62409': Sonstige Personalkosten
+'62410': Sonstige Personalkosten
+'62411': Sonstige Personalkosten
+'62412': Sonstige Personalkosten
+'62413': Sonstige Personalkosten
+'62414': Sonstige Personalkosten
+'62415': Sonstige Personalkosten
+'62416': Sonstige Personalkosten
+'62417': Sonstige Personalkosten
+'62418': Sonstige Personalkosten
+'62419': Sonstige Personalkosten
+'62420': Sonstige Personalkosten
+'62421': Sonstige Personalkosten
+'62422': Sonstige Personalkosten
+'62423': Sonstige Personalkosten
+'62424': Sonstige Personalkosten
+'62425': Sonstige Personalkosten
+'62426': Sonstige Personalkosten
+'62427': Sonstige Personalkosten
+'62428': Sonstige Personalkosten
+'62429': Sonstige Personalkosten
+'62430': Sonstige Personalkosten
+'62431': Sonstige Personalkosten
+'62432': Sonstige Personalkosten
+'62433': Sonstige Personalkosten
+'62434': Sonstige Personalkosten
+'62436': Sonstige Personalkosten
+'62437': Sonstige Personalkosten
+'62446': Sonstige Personalkosten
+'62448': Sonstige Personalkosten
+'62449': Sonstige Personalkosten
+'62450': Sonstige Personalkosten
+'62451': Sonstige Personalkosten
+'62452': Sonstige Personalkosten
+'62453': Sonstige Personalkosten
+'62454': Sonstige Personalkosten
+'62456': Sonstige Personalkosten
+'62457': Sonstige Personalkosten
+'62458': Sonstige Personalkosten
+'62459': Sonstige Personalkosten
+'62460': Sonstige Personalkosten
+'62461': Sonstige Personalkosten
+'62462': Sonstige Personalkosten
+'62463': Sonstige Personalkosten
+'62464': Sonstige Personalkosten
+'62465': Sonstige Personalkosten
+'62466': Sonstige Personalkosten
+'62467': Sonstige Personalkosten
+'62468': Sonstige Personalkosten
+'62469': Sonstige Personalkosten
+'62470': Sonstige Personalkosten
+'62471': Sonstige Personalkosten
+'62472': Sonstige Personalkosten
+'62473': Sonstige Personalkosten
+'62474': Sonstige Personalkosten
+'62475': Sonstige Personalkosten
+'62478': Sonstige Personalkosten
+'62479': Sonstige Personalkosten
+'62480': Sonstige Personalkosten
+'62481': Sonstige Personalkosten
+'62482': Sonstige Personalkosten
+'62483': Sonstige Personalkosten
+'62484': Sonstige Personalkosten
+'62485': Sonstige Personalkosten
+'62486': Sonstige Personalkosten
+'62487': Sonstige Personalkosten
+'62488': Sonstige Personalkosten
+'62489': Sonstige Personalkosten
+'62522': Sonstige Personalkosten
+'62584': Sonstige Personalkosten
+'62610': Sonstige Personalkosten
+'62641': Sonstige Personalkosten
+'62642': Sonstige Personalkosten
+'62643': Sonstige Personalkosten
+'62644': Sonstige Personalkosten
+'62645': Sonstige Personalkosten
+'62646': Sonstige Personalkosten
+'62647': Sonstige Personalkosten
+'62648': Sonstige Personalkosten
+'62649': Sonstige Personalkosten
+'62650': Sonstige Personalkosten
+'62651': Sonstige Personalkosten
+'62652': Sonstige Personalkosten
+'62653': Sonstige Personalkosten
+'62654': Sonstige Personalkosten
+'62655': Sonstige Personalkosten
+'62656': Sonstige Personalkosten
+'62657': Sonstige Personalkosten
+'62658': Sonstige Personalkosten
+'62659': Sonstige Personalkosten
+'62660': Sonstige Personalkosten
+'62661': Sonstige Personalkosten
+'62710': Sonstige Personalkosten
+'62711': Sonstige Personalkosten
+'62712': Sonstige Personalkosten
+'62713': Sonstige Personalkosten
+'62714': Sonstige Personalkosten
+'62715': Sonstige Personalkosten
+'62716': Sonstige Personalkosten
+'62717': Sonstige Personalkosten
+'62718': Sonstige Personalkosten
+'62719': Sonstige Personalkosten
+'62720': Sonstige Personalkosten
+'62721': Sonstige Personalkosten
+'62727': Sonstige Personalkosten
+'62728': Sonstige Personalkosten
+'62729': Sonstige Personalkosten
+'62730': Sonstige Personalkosten
+'62731': Sonstige Personalkosten
+'62738': Sonstige Personalkosten
+'62739': Sonstige Personalkosten
+'62740': Sonstige Personalkosten
+'62741': Sonstige Personalkosten
+'62742': Sonstige Personalkosten
+'62743': Sonstige Personalkosten
+'62744': Sonstige Personalkosten
+'62745': Sonstige Personalkosten
+'62746': Sonstige Personalkosten
+'62747': Sonstige Personalkosten
+'62757': Sonstige Personalkosten
+'62758': Sonstige Personalkosten
+'62759': Sonstige Personalkosten
+'62760': Sonstige Personalkosten
+'62761': Sonstige Personalkosten
+'62762': Sonstige Personalkosten
+'62763': Sonstige Personalkosten
+'62764': Sonstige Personalkosten
+'62780': Sonstige Personalkosten
+'62781': Sonstige Personalkosten
+'62782': Sonstige Personalkosten
+'62783': Sonstige Personalkosten
+'62784': Sonstige Personalkosten
+'62785': Sonstige Personalkosten
+'62786': Sonstige Personalkosten
+'62787': Sonstige Personalkosten
+'62788': Sonstige Personalkosten
+'62789': Sonstige Personalkosten
+'62790': Sonstige Personalkosten
+'62791': Sonstige Personalkosten
+'62792': Sonstige Personalkosten
+'62793': Sonstige Personalkosten
+'62794': Sonstige Personalkosten
+'62795': Sonstige Personalkosten
+'62796': Sonstige Personalkosten
+'62797': Sonstige Personalkosten
+'62798': Sonstige Personalkosten
+'62799': Sonstige Personalkosten
+'62800': Sonstige Personalkosten
+'62801': Sonstige Personalkosten
+'62802': Sonstige Personalkosten
+'62804': Sonstige Personalkosten
+'62805': Sonstige Personalkosten
+'62807': Sonstige Personalkosten
+'62808': Sonstige Personalkosten
+'62811': Sonstige Personalkosten
+'62812': Sonstige Personalkosten
+'62813': Sonstige Personalkosten
+'62814': Sonstige Personalkosten
+'62815': Sonstige Personalkosten
+'62816': Sonstige Personalkosten
+'62818': Sonstige Personalkosten
+'62819': Sonstige Personalkosten
+'62820': Sonstige Personalkosten
+'62821': Sonstige Personalkosten
+'62822': Sonstige Personalkosten
+'62823': Sonstige Personalkosten
+'62824': Sonstige Personalkosten
+'62825': Sonstige Personalkosten
+'62826': Sonstige Personalkosten
+'62827': Sonstige Personalkosten
+'62828': Sonstige Personalkosten
+'62829': Sonstige Personalkosten
+'62830': Sonstige Personalkosten
+'62831': Sonstige Personalkosten
+'62832': Sonstige Personalkosten
+'62833': Sonstige Personalkosten
+'62836': Sonstige Personalkosten
+'62837': Sonstige Personalkosten
+'62838': Sonstige Personalkosten
+'62841': Sonstige Personalkosten
+'62842': Sonstige Personalkosten
+'62843': Sonstige Personalkosten
+'62844': Sonstige Personalkosten
+'62845': Sonstige Personalkosten
+'62846': Sonstige Personalkosten
+'62850': Sonstige Personalkosten
+'62851': Sonstige Personalkosten
+'62852': Sonstige Personalkosten
+'62853': Sonstige Personalkosten
+'62855': Sonstige Personalkosten
+'62857': Sonstige Personalkosten
+'62863': Sonstige Personalkosten
+'62864': Sonstige Personalkosten
+'62865': Sonstige Personalkosten
+'62867': Sonstige Personalkosten
+'62868': Sonstige Personalkosten
+'62869': Sonstige Personalkosten
+'62870': Sonstige Personalkosten
+'62871': Sonstige Personalkosten
+'62872': Sonstige Personalkosten
+'62873': Sonstige Personalkosten
+'62874': Sonstige Personalkosten
+'62875': Sonstige Personalkosten
+'62876': Sonstige Personalkosten
+'62877': Sonstige Personalkosten
+'62878': Sonstige Personalkosten
+'62879': Sonstige Personalkosten
+'62880': Sonstige Personalkosten
+'62881': Sonstige Personalkosten
+'62885': Sonstige Personalkosten
+'62893': Sonstige Personalkosten
+'62897': Sonstige Personalkosten
+'62898': Sonstige Personalkosten
+'629': Sonstige Personalkosten
+'62900': Sonstige Personalkosten
+'62905': Sonstige Personalkosten
+'62906': Sonstige Personalkosten
+'62908': Sonstige Personalkosten
+'62909': Sonstige Personalkosten
+'62910': Sonstige Personalkosten
+'62911': Sonstige Personalkosten
+'62912': Sonstige Personalkosten
+'62913': Sonstige Personalkosten
+'62917': Sonstige Personalkosten
+'62918': Sonstige Personalkosten
+'62920': Sonstige Personalkosten
+'62921': Sonstige Personalkosten
+'62922': Sonstige Personalkosten
+'62923': Sonstige Personalkosten
+'62929': Sonstige Personalkosten
+'62952': Sonstige Personalkosten
+'62953': Sonstige Personalkosten
+'62954': Sonstige Personalkosten
+'62957': Sonstige Personalkosten
+'62958': Sonstige Personalkosten
+'62960': Sonstige Personalkosten
+'62964': Sonstige Personalkosten
+'63': Sonstige Personalkosten
+'63339': Sonstige Personalkosten
+'63340': Sonstige Personalkosten
+'63341': Sonstige Personalkosten
+'63363': Sonstige Personalkosten
+'63365': Sonstige Personalkosten
+'634': Sonstige Personalkosten
+'63400': Sonstige Personalkosten
+'63485': Sonstige Personalkosten
+'63486': Sonstige Personalkosten
+'63487': Sonstige Personalkosten
+'63496': Sonstige Personalkosten
+'63497': Sonstige Personalkosten
+'63498': Sonstige Personalkosten
+'63499': Sonstige Personalkosten
+'63500': Sonstige Personalkosten
+'63501': Sonstige Personalkosten
+'63502': Sonstige Personalkosten
+'63503': Sonstige Personalkosten
+'63504': Sonstige Personalkosten
+'63505': Sonstige Personalkosten
+'63506': Sonstige Personalkosten
+'63507': Sonstige Personalkosten
+'63508': Sonstige Personalkosten
+'63509': Sonstige Personalkosten
+'63510': Sonstige Personalkosten
+'63511': Sonstige Personalkosten
+'63512': Sonstige Personalkosten
+'63515': Sonstige Personalkosten
+'63516': Sonstige Personalkosten
+'63517': Sonstige Personalkosten
+'63518': Sonstige Personalkosten
+'63519': Sonstige Personalkosten
+'63521': Sonstige Personalkosten
+'63523': Sonstige Personalkosten
+'63525': Sonstige Personalkosten
+'63526': Sonstige Personalkosten
+'63527': Sonstige Personalkosten
+'63528': Sonstige Personalkosten
+'63530': Sonstige Personalkosten
+'63531': Sonstige Personalkosten
+'63532': Sonstige Personalkosten
+'63533': Sonstige Personalkosten
+'63534': Sonstige Personalkosten
+'63535': Sonstige Personalkosten
+'63536': Sonstige Personalkosten
+'63537': Sonstige Personalkosten
+'63538': Sonstige Personalkosten
+'63539': Sonstige Personalkosten
+'63541': Sonstige Personalkosten
+'63542': Sonstige Personalkosten
+'63545': Sonstige Personalkosten
+'63546': Sonstige Personalkosten
+'63547': Sonstige Personalkosten
+'63548': Sonstige Personalkosten
+'63549': Sonstige Personalkosten
+'63550': Sonstige Personalkosten
+'63551': Sonstige Personalkosten
+'63552': Sonstige Personalkosten
+'63553': Sonstige Personalkosten
+'63554': Sonstige Personalkosten
+'63556': Sonstige Personalkosten
+'63557': Sonstige Personalkosten
+'63558': Sonstige Personalkosten
+'63559': Sonstige Personalkosten
+'63560': Sonstige Personalkosten
+'63561': Sonstige Personalkosten
+'63562': Sonstige Personalkosten
+'63563': Sonstige Personalkosten
+'63564': Sonstige Personalkosten
+'63565': Sonstige Personalkosten
+'63566': Sonstige Personalkosten
+'63567': Sonstige Personalkosten
+'63570': Sonstige Personalkosten
+'63571': Sonstige Personalkosten
+'63573': Sonstige Personalkosten
+'63581': Sonstige Personalkosten
+'63583': Sonstige Personalkosten
+'63585': Sonstige Personalkosten
+'63586': Sonstige Personalkosten
+'63587': Sonstige Personalkosten
+'63588': Sonstige Personalkosten
+'63589': Sonstige Personalkosten
+'63590': Sonstige Personalkosten
+'63591': Sonstige Personalkosten
+'63592': Sonstige Personalkosten
+'63593': Sonstige Personalkosten
+'63594': Sonstige Personalkosten
+'63595': Sonstige Personalkosten
+'63596': Sonstige Personalkosten
+'63598': Sonstige Personalkosten
+'63599': Sonstige Personalkosten
+'63601': Sonstige Personalkosten
+'63602': Sonstige Personalkosten
+'63608': Sonstige Personalkosten
+'63609': Sonstige Personalkosten
+'63611': Sonstige Personalkosten
+'63612': Sonstige Personalkosten
+'63613': Sonstige Personalkosten
+'63614': Sonstige Personalkosten
+'63615': Sonstige Personalkosten
+'63616': Sonstige Personalkosten
+'63627': Sonstige Personalkosten
+'63628': Sonstige Personalkosten
+'63629': Sonstige Personalkosten
+'63663': Sonstige Personalkosten
+'63664': Sonstige Personalkosten
+'63665': Sonstige Personalkosten
+'63668': Sonstige Personalkosten
+'63669': Sonstige Personalkosten
+'63670': Sonstige Personalkosten
+'63671': Sonstige Personalkosten
+'63674': Sonstige Personalkosten
+'63675': Sonstige Personalkosten
+'63676': Sonstige Personalkosten
+'63677': Sonstige Personalkosten
+'63678': Sonstige Personalkosten
+'63679': Sonstige Personalkosten
+'63682': Sonstige Personalkosten
+'63683': Sonstige Personalkosten
+'63684': Sonstige Personalkosten
+'63685': Sonstige Personalkosten
+'63686': Sonstige Personalkosten
+'63687': Sonstige Personalkosten
+'63688': Sonstige Personalkosten
+'63689': Sonstige Personalkosten
+'63693': Sonstige Personalkosten
+'63694': Sonstige Personalkosten
+'63695': Sonstige Personalkosten
+'63696': Sonstige Personalkosten
+'63697': Sonstige Personalkosten
+'63698': Sonstige Personalkosten
+'63699': Sonstige Personalkosten
+'63701': Sonstige Personalkosten
+'63702': Sonstige Personalkosten
+'63707': Sonstige Personalkosten
+'63708': Sonstige Personalkosten
+'63709': Sonstige Personalkosten
+'63882': Sonstige Personalkosten
+'63883': Sonstige Personalkosten
+'63887': Sonstige Personalkosten
+'63888': Sonstige Personalkosten
+'63889': Sonstige Personalkosten
+'63890': Sonstige Personalkosten
+'63891': Sonstige Personalkosten
+'63892': Sonstige Personalkosten
+'63899': Sonstige Personalkosten
+'639': Sonstige Personalkosten
+'63902': Sonstige Personalkosten
+'63903': Sonstige Personalkosten
+'63907': Sonstige Personalkosten
+'63912': Sonstige Personalkosten
+'63913': Sonstige Personalkosten
+'63914': Sonstige Personalkosten
+'63915': Sonstige Personalkosten
+'63916': Sonstige Personalkosten
+'63917': Sonstige Personalkosten
+'63949': Sonstige Personalkosten
+'63950': Sonstige Personalkosten
+'63951': Sonstige Personalkosten
+'63953': Sonstige Personalkosten
+'63959': Sonstige Personalkosten
+'63961': Sonstige Personalkosten
+'63962': Sonstige Personalkosten
+'63963': Sonstige Personalkosten
+'63969': Sonstige Personalkosten
+'63970': Sonstige Personalkosten
+'63971': Sonstige Personalkosten
+'63972': Sonstige Personalkosten
+'63973': Sonstige Personalkosten
+'63974': Sonstige Personalkosten
+'63975': Sonstige Personalkosten
+'63976': Sonstige Personalkosten
+'63977': Sonstige Personalkosten
+'63978': Sonstige Personalkosten
+'63979': Sonstige Personalkosten
+'63980': Sonstige Personalkosten
+'63981': Sonstige Personalkosten
+'63982': Sonstige Personalkosten
+'63983': Sonstige Personalkosten
+'63984': Sonstige Personalkosten
+'64': Sonstige allgemeine Verwaltungsausgaben
+'640': Sonstige Personalkosten
+'64000': Sonstige Personalkosten
+'64300': Sonstige Personalkosten
+'64409': Sonstige Personalkosten
+'64411': Sonstige Personalkosten
+'64555': Sonstige Personalkosten
+'64568': Sonstige Personalkosten
+'64569': Sonstige Personalkosten
+'64619': Sonstige Personalkosten
+'64620': Sonstige Personalkosten
+'64623': Sonstige Personalkosten
+'64624': Sonstige Personalkosten
+'64625': Sonstige Personalkosten
+'64631': Sonstige Personalkosten
+'64632': Sonstige Personalkosten
+'64633': Sonstige Personalkosten
+'64634': Sonstige Personalkosten
+'64635': Sonstige Personalkosten
+'64636': Sonstige Personalkosten
+'64637': Sonstige Personalkosten
+'64638': Sonstige Personalkosten
+'64639': Sonstige Personalkosten
+'64640': Sonstige Personalkosten
+'64750': Sonstige Personalkosten
+'64751': Sonstige Personalkosten
+'64752': Sonstige Personalkosten
+'64754': Sonstige Personalkosten
+'64755': Sonstige Personalkosten
+'64759': Sonstige Personalkosten
+'64762': Sonstige Personalkosten
+'64763': Sonstige Personalkosten
+'64764': Sonstige Personalkosten
+'64765': Sonstige Personalkosten
+'64766': Sonstige Personalkosten
+'64767': Sonstige Personalkosten
+'64768': Sonstige Personalkosten
+'64769': Sonstige Personalkosten
+'64770': Sonstige Personalkosten
+'64771': Sonstige Personalkosten
+'64772': Sonstige Personalkosten
+'64773': Sonstige Personalkosten
+'64774': Sonstige Personalkosten
+'64775': Sonstige Personalkosten
+'64776': Sonstige Personalkosten
+'64777': Sonstige Personalkosten
+'64778': Sonstige Personalkosten
+'64779': Sonstige Personalkosten
+'64800': Sonstige Personalkosten
+'64879': Sonstige Personalkosten
+'64900': Sonstige Personalkosten
+'64901': Sonstige Personalkosten
+'65': Sonstige Personalkosten
+'65000': Sonstige Personalkosten
+'65100': Sonstige Personalkosten
+'65120': Sonstige Reisekosten
+'65130': Reisekosten - Inland
+'65347': Sonstige Personalkosten
+'65350': Sonstige Personalkosten
+'65389': Sonstige Personalkosten
+'65400': Sonstige Personalkosten
+'65529': Sonstige Personalkosten
+'65700': Sonstige Personalkosten
+'6571': Projektpauschale
+'65886': Sonstige Personalkosten
+'65887': Sonstige Personalkosten
+'65900': Sonstige Personalkosten
+'6591': Sonstige Personalkosten
+'65919': Sonstige Reisekosten
+'65949': Sonstige Personalkosten
+'65956': Sonstige Personalkosten
+'66100': Sonstige allgemeine Verwaltungsausgaben
+'66200': Sonstige allgemeine Verwaltungsausgaben
+'66300': Sonstige allgemeine Verwaltungsausgaben
+'66350': Sonstige allgemeine Verwaltungsausgaben
+'66400': Sonstige allgemeine Verwaltungsausgaben
+'66900': Sonstige allgemeine Verwaltungsausgaben
+'67000': EDV/IT-Einrichtung Software
+'67001': Mieten und Rechnerkosten
+'67090': Mieten und Rechnerkosten
+'67100': Sonstige allgemeine Verwaltungsausgaben
+'67400': Sonstige Personalkosten
+'67401': Sonstige Personalkosten
+'67730': Sonstige allgemeine Verwaltungsausgaben
+'67750': Sonstige allgemeine Verwaltungsausgaben
+'68000': Sonstige allgemeine Verwaltungsausgaben
+'68001': Sonstige allgemeine Verwaltungsausgaben
+'68002': Sonstiger Bürobedarf
+'68010': Sonstiger Bürobedarf
+'68100': Recherche / Literatur
+'68101': Recherche / Literatur
+'68104': Recherche / Literatur
+'68108': Recherche / Literatur
+'68110': Design-, Grafik und Layout
+'68111': Design-, Grafik und Layout
+'68120': Recherche / Literatur
+'68121': Recherche / Literatur
+'68124': EDV/IT-Einrichtung Software
+'68160': Recherche / Literatur
+'68200': Sonstiger Bürobedarf
+'68301': Sonstiger Bürobedarf
+'68302': Sonstige allgemeine Verwaltungsausgaben
+'68303': Sonstige allgemeine Verwaltungsausgaben
+'68304': Sonstige allgemeine Verwaltungsausgaben
+'68305': Sonstige allgemeine Verwaltungsausgaben
+'68390': Sonstige allgemeine Verwaltungsausgaben
+'68500': Reisekosten - Inland
+'68505': Sonstige Reisekosten
+'68510': Sonstige Reisekosten
+'68511': Sonstige Reisekosten
+'68515': Sonstige Reisekosten
+'68516': Sonstige Reisekosten
+'68520': Sonstige Reisekosten
+'68521': Sonstige Reisekosten
+'68522': Sonstige Reisekosten
+'68525': Sonstige Reisekosten
+'68526': Sonstige Reisekosten
+'68600': Bewirtungskosten
+'68610': Bewirtungskosten
+'68900': Sonstige allgemeine Verwaltungsausgaben
+'68990': Sonstige allgemeine Verwaltungsausgaben
+'68991': Sonstige allgemeine Verwaltungsausgaben
+'69000': Sonstige allgemeine Verwaltungsausgaben
+'69100': Sonstige allgemeine Verwaltungsausgaben
+'69371': Sonstige allgemeine Verwaltungsausgaben
+'69700': Sonstige allgemeine Verwaltungsausgaben
+'69790': Sonstige allgemeine Verwaltungsausgaben
+'7000': Gegenstände über 410
+'70000': Sonstige allgemeine Verwaltungsausgaben
+'70300': Sonstige allgemeine Verwaltungsausgaben
+'70700': Sonstige allgemeine Verwaltungsausgaben
+'70701': Sonstige allgemeine Verwaltungsausgaben
+'70750': Sonstige allgemeine Verwaltungsausgaben
+'70760': Sonstige allgemeine Verwaltungsausgaben
+'70770': Sonstige allgemeine Verwaltungsausgaben
+'70771': Sonstige allgemeine Verwaltungsausgaben
+'70772': Sonstige allgemeine Verwaltungsausgaben
+'70775': Sonstige allgemeine Verwaltungsausgaben
+'70777': Sonstige allgemeine Verwaltungsausgaben
+'70778': Sonstige allgemeine Verwaltungsausgaben
+'7100': EDV/IT-Einrichtung Software
+'7200': Gegenstände über 410
+'7300': Gegenstände über 410
+'73000': Sonstige allgemeine Verwaltungsausgaben
+'73001': Sonstige allgemeine Verwaltungsausgaben
+'73002': Sonstige allgemeine Verwaltungsausgaben
+'75205': Sonstige allgemeine Verwaltungsausgaben
+'79690': Sonstige allgemeine Verwaltungsausgaben
+'8200': Gegenstände bis 410
+'8500': Gegenstände über 410
+'8700': Möblierung

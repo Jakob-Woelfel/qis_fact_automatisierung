@@ -1,0 +1,2414 @@
+schema_version: 2
+items:
+- original: Entnahmen, Einlagen
+  number: '33330'
+  mapped_to: ''
+- original: Erhaltene Anzahlungen auf Beteiligungen/Leistungen
+  number: '40000'
+  mapped_to: ''
+- original: Einnahmen Bund (TG 71)
+  number: '50020'
+  mapped_to: ''
+- original: Einnahmen Bundesagentur f. Arbeit zur Personalfinanzierung
+  number: '50021'
+  mapped_to: ''
+- original: Einnahmen von Ländern
+  number: '50022'
+  mapped_to: ''
+- original: Einnahmen von sonstigen öffentl. Bereichen
+  number: '50024'
+  mapped_to: ''
+- original: Einnahmen Bund (TG 53)
+  number: '50025'
+  mapped_to: ''
+- original: Einnahmen EU (TG 93)
+  number: '50030'
+  mapped_to: ''
+- original: Einnahmen von intern. Organisationen (z.B. OECD, UN)
+  number: '50035'
+  mapped_to: ''
+- original: Einnahmen DFG SFB (TG 91)
+  number: '50040'
+  mapped_to: ''
+- original: Einnahmen DFG (TG 92)
+  number: '50041'
+  mapped_to: ''
+- original: Einnahmen DFG Exzellenzinitiative (TG 95)
+  number: '50043'
+  mapped_to: ''
+- original: Einnahmen DFG Erstattung Großgeräte
+  number: '50044'
+  mapped_to: ''
+- original: Einnahmen Stiftungslehrstühle
+  number: '50050'
+  mapped_to: ''
+- original: Einnahmen Zuschüsse Inland (Privatwirtschaft)
+  number: '50060'
+  mapped_to: ''
+- original: Einnahmen DAAD (TG 72)
+  number: '50061'
+  mapped_to: ''
+- original: Einnahmen sonstige Geldgeber
+  number: '50062'
+  mapped_to: ''
+- original: Einnahmen von Stiftungen, Stiftungslehrstühle (TG 72)
+  number: '50070'
+  mapped_to: ''
+- original: Einnahmen aus Hilfsgeschäften (z.B. nicht steuerbarer Bestandsverkauf)
+  number: '50100'
+  mapped_to: ''
+- original: EU - Partner
+  number: '50161'
+  mapped_to: ''
+- original: EU - Partner
+  number: '50162'
+  mapped_to: ''
+- original: EU - Partner
+  number: '50163'
+  mapped_to: ''
+- original: Vermietung Räume/Einrichtungen_19%
+  number: '50200'
+  mapped_to: ''
+- original: Vermietung Räume/Einrichtungen_16%
+  number: '50201'
+  mapped_to: ''
+- original: Vermietung Apartments Gästehaus_19 %
+  number: '50210'
+  mapped_to: ''
+- original: Vermietung  Seminarräume Gästehaus_19 %
+  number: '50220'
+  mapped_to: ''
+- original: Vermietung Seminarräume_19 %
+  number: '50220'
+  mapped_to: ''
+- original: Vermietung Stellplätze_19 %
+  number: '50231'
+  mapped_to: ''
+- original: Vermietung/Nutzung Maschinen, Geräte, Apparate, sonstige Ausstattung_19%
+  number: '50232'
+  mapped_to: ''
+- original: Drittland - Partner
+  number: '50261'
+  mapped_to: ''
+- original: Drittland - Partner
+  number: '50262'
+  mapped_to: ''
+- original: Drittland - Partner
+  number: '50263'
+  mapped_to: ''
+- original: Dauervermietungen (steuerfrei)
+  number: '50300'
+  mapped_to: ''
+- original: Innenumsatz (nur nach Rücksprache Verwaltung)
+  number: '50361'
+  mapped_to: ''
+- original: Innenumsatz (nur nach Rücksprache Verwaltung)
+  number: '50362'
+  mapped_to: ''
+- original: Innenumsatz (nur nach Rücksprache Verwaltung)
+  number: '50363'
+  mapped_to: ''
+- original: Inland_19%
+  number: '50461'
+  mapped_to: ''
+- original: Inland_19%
+  number: '50462'
+  mapped_to: ''
+- original: Inland_19%
+  number: '50463'
+  mapped_to: ''
+- original: Inland_16%
+  number: '50561'
+  mapped_to: ''
+- original: Inland_16%
+  number: '50562'
+  mapped_to: ''
+- original: Inland_16%
+  number: '50563'
+  mapped_to: ''
+- original: Overhead, Auftragsforschung
+  number: '50662'
+  mapped_to: ''
+- original: Beteiligung PaLi/Bay. Patentallianz GmbH _WFT GmbH aus gesonderter Feststellung
+  number: '50701'
+  mapped_to: ''
+- original: weitere Beteiligungen aus gesonderter Feststellung
+  number: '50702'
+  mapped_to: ''
+- original: Einnahmen aus Studiengebühren
+  number: '51010'
+  mapped_to: ''
+- original: Einnahmen aus Mahn-, Verw.geb. und ähnliches
+  number: '51400'
+  mapped_to: ''
+- original: Einnhamen Mahngebühren/Verwaltungs-/Stornogebühren
+  number: '51400'
+  mapped_to: ''
+- original: Drittlandlieferungen
+  number: '51502'
+  mapped_to: ''
+- original: EU - Landlieferungen
+  number: '51503'
+  mapped_to: ''
+- original: Sponosring_19%
+  number: '51510'
+  mapped_to: ''
+- original: Sponsoring_16%
+  number: '51512'
+  mapped_to: ''
+- original: Inland_7% USt
+  number: '51522'
+  mapped_to: ''
+- original: Inland_19% USt
+  number: '51523'
+  mapped_to: ''
+- original: EU - Partner
+  number: '51524'
+  mapped_to: ''
+- original: Drittland - Partner
+  number: '51525'
+  mapped_to: ''
+- original: Innenumsatz (nur nach Rücksprache Verwaltung)
+  number: '51526'
+  mapped_to: ''
+- original: Inland_ 5% USt
+  number: '51527'
+  mapped_to: ''
+- original: Inland_16% USt
+  number: '51528'
+  mapped_to: ''
+- original: Overhead, sonstige wirtschaftliche Bereiche
+  number: '51529'
+  mapped_to: ''
+- original: Grundbeitrag_steuerfrei
+  number: '51530'
+  mapped_to: ''
+- original: Startgelder_steuerfrei
+  number: '51531'
+  mapped_to: ''
+- original: Verkauf von Speisen und Getränken_7%
+  number: '51532'
+  mapped_to: ''
+- original: sonstige Einnahmen bei studentischen Veranstaltungen _19%
+  number: '51533'
+  mapped_to: ''
+- original: Verkauf von Speisen_5%
+  number: '51534'
+  mapped_to: ''
+- original: Grundbeitrag_steuerfrei
+  number: '51535'
+  mapped_to: ''
+- original: Eintrittsgelder_steuerfrei
+  number: '51536'
+  mapped_to: ''
+- original: Eintrittsgelder_7% USt
+  number: '51537'
+  mapped_to: ''
+- original: Eintrittsgelder_19% USt
+  number: '51538'
+  mapped_to: ''
+- original: sonstige Einnahmen bei studentischen Veranstaltungen _16%
+  number: '51539'
+  mapped_to: ''
+- original: Zusatzbeitrag _19%
+  number: '51540'
+  mapped_to: ''
+- original: Zusatzbeitrag _7%
+  number: '51541'
+  mapped_to: ''
+- original: Zusatzbeitrag _16%
+  number: '51542'
+  mapped_to: ''
+- original: Zusatzbeitrag _7%
+  number: '51543'
+  mapped_to: ''
+- original: Zusatzbeitrag _5%
+  number: '51544'
+  mapped_to: ''
+- original: Zusatzbeitrag_19%
+  number: '51545'
+  mapped_to: ''
+- original: Zusatzbeitrag_16%
+  number: '51546'
+  mapped_to: ''
+- original: Eintrittsgelder_5% USt
+  number: '51547'
+  mapped_to: ''
+- original: Eintrittsgelder_16% USt
+  number: '51548'
+  mapped_to: ''
+- original: Zusatzbeitrag _5%
+  number: '51549'
+  mapped_to: ''
+- original: Grundbeitrag Immatrikulierte Studiengang_steuerfrei
+  number: '51550'
+  mapped_to: ''
+- original: Grundbeitrag Zertifikatsangebote_steuerfrei
+  number: '51551'
+  mapped_to: ''
+- original: Zusatzbeitrag_16%
+  number: '51553'
+  mapped_to: ''
+- original: Zusatzbeitrag_5%
+  number: '51554'
+  mapped_to: ''
+- original: Zusatzbeitrag_19%
+  number: '51555'
+  mapped_to: ''
+- original: Zusatzbeitrag_7%
+  number: '51556'
+  mapped_to: ''
+- original: Studentenwerksbeitrag zur Weiterleitung
+  number: '51559'
+  mapped_to: ''
+- original: Einnahmen aus Marketing_19%
+  number: '51560'
+  mapped_to: ''
+- original: Verkauf UniShop - Produkten _ 19% USt
+  number: '51561'
+  mapped_to: ''
+- original: Verkauf von UniShop - Produkten _ 7% USt
+  number: '51562'
+  mapped_to: ''
+- original: Verkauf UniShop - Produkten _ 16% USt
+  number: '51565'
+  mapped_to: ''
+- original: Verkauf von UniShop - Produkten _ 5% USt
+  number: '51566'
+  mapped_to: ''
+- original: Verkauf von Skripten_7%
+  number: '51570'
+  mapped_to: ''
+- original: Verkauf von Kopien, Drucken und Druckerzeugnissen_19%
+  number: '51571'
+  mapped_to: ''
+- original: Verkauf von Chemikalien_19%
+  number: '51572'
+  mapped_to: ''
+- original: Verkauf von Material vom IT-Servicezentrum_19%
+  number: '51573'
+  mapped_to: ''
+- original: Verkauf von Skripten_5%
+  number: '51575'
+  mapped_to: ''
+- original: Verkauf von Kopien, Drucken und Druckerzeugnissen_16%
+  number: '51576'
+  mapped_to: ''
+- original: Verkauf von Chemikalien_16%
+  number: '51577'
+  mapped_to: ''
+- original: Verkauf von Material vom IT-Servicezentrum_16%
+  number: '51578'
+  mapped_to: ''
+- original: Preisnachlässe/Rabatte; 0%
+  number: '51590'
+  mapped_to: ''
+- original: Preisnachlässe/Rabatte; 7%
+  number: '51591'
+  mapped_to: ''
+- original: Preisnachlässe/Rabatte; 19%
+  number: '51592'
+  mapped_to: ''
+- original: Preisnachlässe/Rabatte; 5%
+  number: '51593'
+  mapped_to: ''
+- original: Preisnachlässe/Rabatte; 16%
+  number: '51594'
+  mapped_to: ''
+- original: Lizenzen, Patente und Konzessionen_19%
+  number: '51600'
+  mapped_to: ''
+- original: Lizenzen, Patente und Konzessionen_16%
+  number: '51601'
+  mapped_to: ''
+- original: 'Umsätze Patente/Lizenzen; EU-Land (BS: 21)'
+  number: '51624'
+  mapped_to: ''
+- original: 'Umsätze Patente/Lizenzen; EU-Land (BS: 45)'
+  number: '51625'
+  mapped_to: ''
+- original: Umsätze - Patente/Lizenzen; Innenumsätze
+  number: '51629'
+  mapped_to: ''
+- original: Einnahmen aus Hochschulsport
+  number: '51710'
+  mapped_to: ''
+- original: Kostenerstattungen von Mitarbeitern (KFZ-Nutzung, Telefon , private Kopien)
+  number: '53310'
+  mapped_to: ''
+- original: Schadensersatzleistungen
+  number: '53320'
+  mapped_to: ''
+- original: Haushaltsmittel (vorläufig)
+  number: '54040'
+  mapped_to: ''
+- original: Haushaltsmittel für laufende Zwecke
+  number: '54051'
+  mapped_to: ''
+- original: Haushaltsmittel für Investitionen
+  number: '54052'
+  mapped_to: ''
+- original: Einnahmen aus Betriebskostenerstattung (Mietnebenkosten)
+  number: '54911'
+  mapped_to: ''
+- original: Grundstücke
+  number: '5500'
+  mapped_to: ''
+- original: Gebäude
+  number: '5700'
+  mapped_to: ''
+- original: Sonstige Zinserträge
+  number: '57900'
+  mapped_to: ''
+- original: Zuw. von SV-Trägern u. BA f. Arbeit
+  number: '58110'
+  mapped_to: ''
+- original: Chemikalien
+  number: '60100'
+  mapped_to: ''
+- original: Wasser/Abwasser
+  number: '60500'
+  mapped_to: ''
+- original: Strom
+  number: '60510'
+  mapped_to: ''
+- original: Fernkälte
+  number: '60512'
+  mapped_to: ''
+- original: Fernwärme
+  number: '60513'
+  mapped_to: ''
+- original: Öl für Heizung, flüssige Brennstoffe
+  number: '60514'
+  mapped_to: ''
+- original: Gas für Heizung und Gasflaschen für sonstige Zwecke
+  number: '60515'
+  mapped_to: ''
+- original: Treibstoffe und Öle für KFZ
+  number: '60517'
+  mapped_to: ''
+- original: Werkstattmaterial für Aufträge
+  number: '60600'
+  mapped_to: ''
+- original: Verbrauchsmaterial
+  number: '60601'
+  mapped_to: ''
+- original: Hygieneartikel (Seife, Papierhandtücher, Toilettenpapier,…)
+  number: '60602'
+  mapped_to: ''
+- original: KFZ - Instandsetzung
+  number: '60612'
+  mapped_to: ''
+- original: Sonstige Materialien
+  number: '60790'
+  mapped_to: ''
+- original: Sachverständigenkosten
+  number: '61200'
+  mapped_to: ''
+- original: Untersuchungen, Gutachten, etc.
+  number: '61200'
+  mapped_to: ''
+- original: TÜV
+  number: '61201'
+  mapped_to: ''
+- original: EDV-Dienstleistungen/Kosten
+  number: '61310'
+  mapped_to: ''
+- original: Dias, Fotoarbeiten, Reproduktion
+  number: '61320'
+  mapped_to: ''
+- original: Buchbindearbeiten, Literatureinband
+  number: '61350'
+  mapped_to: ''
+- original: Restaurierung von Schrifttum
+  number: '61351'
+  mapped_to: ''
+- original: Digitalisierung
+  number: '61352'
+  mapped_to: ''
+- original: Fernleihe
+  number: '61380'
+  mapped_to: ''
+- original: Bewachung
+  number: '61390'
+  mapped_to: ''
+- original: Müllabfuhr
+  number: '61400'
+  mapped_to: ''
+- original: Entsorgung
+  number: '61401'
+  mapped_to: ''
+- original: Grundstücksbe- und Entwässerung
+  number: '61420'
+  mapped_to: ''
+- original: Transportkosten (Rollgeld) etc.
+  number: '61500'
+  mapped_to: ''
+- original: Wartungskosten allgemein
+  number: '61600'
+  mapped_to: ''
+- original: KFZ - Wartung
+  number: '61603'
+  mapped_to: ''
+- original: Reparaturen
+  number: '61604'
+  mapped_to: ''
+- original: Leuchtmittel
+  number: '61605'
+  mapped_to: ''
+- original: Regelbedarf Gebäudeunterhalt, Unterhaltsmaßnahmen (auch Bau)
+  number: '61610'
+  mapped_to: ''
+- original: Wartungskosten Fernmeldeanlage
+  number: '61625'
+  mapped_to: ''
+- original: Aufzugwartung
+  number: '61635'
+  mapped_to: ''
+- original: Feuermelde- und Brandschutzanlage
+  number: '61636'
+  mapped_to: ''
+- original: Gebäudereinigung
+  number: '61700'
+  mapped_to: ''
+- original: Sonderreinigungen
+  number: '61702'
+  mapped_to: ''
+- original: sonstige Hausbewirtschaftungskosten
+  number: '61705'
+  mapped_to: ''
+- original: Kosten für Leitungen
+  number: '61710'
+  mapped_to: ''
+- original: Straßen- und Wegereinigung, Winterdienst
+  number: '61750'
+  mapped_to: ''
+- original: Fremdleistungen_Allgemein
+  number: '61790'
+  mapped_to: ''
+- original: Fremdleistungen_Organisationspartner der Campus Akademie
+  number: '61791'
+  mapped_to: ''
+- original: Gemälde, Kunstgegenstände
+  number: '6200'
+  mapped_to: ''
+- original: Entgelt für geleistete Arbeitszeit
+  number: '62000'
+  mapped_to: ''
+- original: Sta./Sitzwache Allgemein
+  number: '621'
+  mapped_to: ''
+- original: Jahressonderzahlungen
+  number: '62100'
+  mapped_to: ''
+- original: Familienzuschlag Stufe 1 - neg.
+  number: '62319'
+  mapped_to: ''
+- original: Familienzuschlag Kind(er) - neg.
+  number: '62320'
+  mapped_to: ''
+- original: Allgemeine Stellenzulage (neu)
+  number: '62323'
+  mapped_to: ''
+- original: Hochschulleitungszulage
+  number: '62325'
+  mapped_to: ''
+- original: Funkt-Leist-B(Vrek/Vpräs)
+  number: '62326'
+  mapped_to: ''
+- original: Funkt.-Leist.-Bez. (Sonst. Pro
+  number: '62327'
+  mapped_to: ''
+- original: Familienzuschlag Stufe 1 - neg
+  number: '62328'
+  mapped_to: ''
+- original: Familienzuschlag Kind(er) - neg.
+  number: '62329'
+  mapped_to: ''
+- original: Allgemeine Stellenzulage (neu)
+  number: '62330'
+  mapped_to: ''
+- original: Hochschulleitungszulage
+  number: '62331'
+  mapped_to: ''
+- original: Funkt-Leist-B(Vrek/Vpräs)
+  number: '62332'
+  mapped_to: ''
+- original: Funkt.-Leist.-Bez. (Sonst. Pro
+  number: '62333'
+  mapped_to: ''
+- original: Bes.Leist.-Bez.-§4 (Anp)
+  number: '62334'
+  mapped_to: ''
+- original: Bes.Leist.-Bez. - §4
+  number: '62335'
+  mapped_to: ''
+- original: Funk.-Leist-Bez.(Rek/Pr)
+  number: '62337'
+  mapped_to: ''
+- original: Funkt.-Leist.-Bez.(Dekan)
+  number: '62338'
+  mapped_to: ''
+- original: Erhöhtes Urlaubsentgeld  § 21 TVL
+  number: '62339'
+  mapped_to: ''
+- original: Erhöhtes Urlaubsentgeld  § 21 TVL
+  number: '62340'
+  mapped_to: ''
+- original: Bes.Leist.-Bez (C2/Anp)
+  number: '62342'
+  mapped_to: ''
+- original: Strukturzul. Art. 33 Satz 1
+  number: '62343'
+  mapped_to: ''
+- original: Bewährungszul Juniorprof.
+  number: '62344'
+  mapped_to: ''
+- original: Vergütungsgruppenzulage
+  number: '62345'
+  mapped_to: ''
+- original: Wechselschichtzul Tarif
+  number: '62348'
+  mapped_to: ''
+- original: Schichtzulage Tarif a
+  number: '62349'
+  mapped_to: ''
+- original: Estd Stud svfrei §3 Nr 26
+  number: '62364'
+  mapped_to: ''
+- original: Prüfervergütung pfl    §3 Nr. 26
+  number: '62365'
+  mapped_to: ''
+- original: Schichtzulage 100%
+  number: '62366'
+  mapped_to: ''
+- original: Pauschale für Ber./Ruf.
+  number: '62367'
+  mapped_to: ''
+- original: Kürzung UHB Arbeitsentg.
+  number: '62368'
+  mapped_to: ''
+- original: Auslandszuschlag
+  number: '62369'
+  mapped_to: ''
+- original: Lehrnb.verg. Aus-/Fb.stfr
+  number: '62370'
+  mapped_to: ''
+- original: Tutorenverg. Stud. svpfl.
+  number: '62371'
+  mapped_to: ''
+- original: EStdVerg. Stud. svpf.
+  number: '62372'
+  mapped_to: ''
+- original: Prüfervergütung pfl
+  number: '62373'
+  mapped_to: ''
+- original: Prüfervergütung frei
+  number: '62374'
+  mapped_to: ''
+- original: Prüfervergütung st/svpfl
+  number: '62375'
+  mapped_to: ''
+- original: Lehrauftragsvergütung
+  number: '62376'
+  mapped_to: ''
+- original: Unterrichtsverg. frei
+  number: '62378'
+  mapped_to: ''
+- original: Unterrichtsverg. st/svpfl
+  number: '62379'
+  mapped_to: ''
+- original: Pauschverg. RK frei
+  number: '62382'
+  mapped_to: ''
+- original: Pauschverg. RK st/svpfl
+  number: '62383'
+  mapped_to: ''
+- original: Abfindung stpfl
+  number: '62384'
+  mapped_to: ''
+- original: Abfindung n. ATZ stpfl
+  number: '62386'
+  mapped_to: ''
+- original: Bes. Leistungsbez - Prüf.
+  number: '62390'
+  mapped_to: ''
+- original: Bes. Leistungsbez - sonst
+  number: '62391'
+  mapped_to: ''
+- original: Forschungs- und Lehrzul.
+  number: '62392'
+  mapped_to: ''
+- original: Tut.verg. svpfl. §3 Nr.26
+  number: '62393'
+  mapped_to: ''
+- original: Unt.verg. st/svpfl §3Nr26
+  number: '62397'
+  mapped_to: ''
+- original: Forschungs- und Lehrzul.
+  number: '62398'
+  mapped_to: ''
+- original: Krankengeld kal.tägl. KGZ
+  number: '62399'
+  mapped_to: ''
+- original: Leistungsprämie
+  number: '62400'
+  mapped_to: ''
+- original: Leistungsentgelt TV-F masch.
+  number: '62401'
+  mapped_to: ''
+- original: Leistungsentgelt TV-F man.
+  number: '62402'
+  mapped_to: ''
+- original: Verm. AG-Anteil rückwirk.
+  number: '62403'
+  mapped_to: ''
+- original: Sonst. Zahlung frei
+  number: '62404'
+  mapped_to: ''
+- original: Sonst. Zahlung pfl
+  number: '62405'
+  mapped_to: ''
+- original: Sonst. Zahlung stpfl
+  number: '62406'
+  mapped_to: ''
+- original: Nachzahlung SoB/einm.AL
+  number: '62407'
+  mapped_to: ''
+- original: So.Zahl.prod. LST,SV
+  number: '62408'
+  mapped_to: ''
+- original: Leistungsprämie-Corona Entgelte
+  number: '62409'
+  mapped_to: ''
+- original: Erstatt. von and. Diensth
+  number: '62410'
+  mapped_to: ''
+- original: Corona - Sonderzahlung (TV)
+  number: '62411'
+  mapped_to: ''
+- original: Sonderzahlung (Drittm.)
+  number: '62412'
+  mapped_to: ''
+- original: Zuwendung
+  number: '62413'
+  mapped_to: ''
+- original: Zuwendung TVL
+  number: '62414'
+  mapped_to: ''
+- original: Zuwendung ATZ
+  number: '62415'
+  mapped_to: ''
+- original: Sonderzahlung
+  number: '62416'
+  mapped_to: ''
+- original: Außertarifl. Sonderzahl.
+  number: '62417'
+  mapped_to: ''
+- original: Außertarifl. SoZ 2008
+  number: '62418'
+  mapped_to: ''
+- original: Sonderzahlung TVL masch.
+  number: '62419'
+  mapped_to: ''
+- original: Sonderzahlung TVL man.
+  number: '62420'
+  mapped_to: ''
+- original: Sonderzahlung TVL ATZ
+  number: '62421'
+  mapped_to: ''
+- original: Sonderzahlung TVL ATZ man.
+  number: '62422'
+  mapped_to: ''
+- original: Sonderzahlung TVL ATZ nicht au
+  number: '62423'
+  mapped_to: ''
+- original: Sonderzahlung TVL Azubi
+  number: '62424'
+  mapped_to: ''
+- original: Urlaubsabgeltung
+  number: '62425'
+  mapped_to: ''
+- original: Jubiläumszuwendung 25J.
+  number: '62426'
+  mapped_to: ''
+- original: Jubiläumszuwendung 40J.
+  number: '62427'
+  mapped_to: ''
+- original: pauschales Sterbegeld
+  number: '62428'
+  mapped_to: ''
+- original: Erfindervergütung
+  number: '62429'
+  mapped_to: ''
+- original: Karriereentwicklungszul.
+  number: '62430'
+  mapped_to: ''
+- original: Abschlussprämie
+  number: '62431'
+  mapped_to: ''
+- original: FKZ Wechseltätigkeit
+  number: '62432'
+  mapped_to: ''
+- original: Umbuchung
+  number: '62433'
+  mapped_to: ''
+- original: Erlass / Niederschlagung
+  number: '62434'
+  mapped_to: ''
+- original: Einmalzahl. 2007 AN masch.
+  number: '62436'
+  mapped_to: ''
+- original: Vgl. Sonderbetrag f. max. 12 Monate
+  number: '62437'
+  mapped_to: ''
+- original: Auszahlung Zinsen Bezüge
+  number: '62446'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez.
+  number: '62448'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez.
+  number: '62449'
+  mapped_to: ''
+- original: Bes.Leistungsbez. - Prüf.
+  number: '62450'
+  mapped_to: ''
+- original: Bes. Leistungsbez - sonst
+  number: '62451'
+  mapped_to: ''
+- original: Lehrauftragsverg. frei
+  number: '62452'
+  mapped_to: ''
+- original: Mehrstunden Teilzeit
+  number: '62453'
+  mapped_to: ''
+- original: Mehrstunden Teilzeit
+  number: '62454'
+  mapped_to: ''
+- original: VertrZul/Höherw.Tätig.ATZ
+  number: '62456'
+  mapped_to: ''
+- original: VertrZul/Höherw.Tätig.ATZ
+  number: '62457'
+  mapped_to: ''
+- original: Prämie 30.-34. Transport
+  number: '62458'
+  mapped_to: ''
+- original: Prämie 30.-34. Transport
+  number: '62459'
+  mapped_to: ''
+- original: Samstagsarbeit 13-21 Uhr
+  number: '62460'
+  mapped_to: ''
+- original: Nachtarbeit
+  number: '62461'
+  mapped_to: ''
+- original: Nachtarb.Beginn vor 0 Uhr
+  number: '62462'
+  mapped_to: ''
+- original: Nachtarbeit 1,28 E
+  number: '62463'
+  mapped_to: ''
+- original: Nacht Beg.v.0 Uhr 1,28 Eur
+  number: '62464'
+  mapped_to: ''
+- original: Samstag 13-21 Uhr 0,64 Eur
+  number: '62465'
+  mapped_to: ''
+- original: ausgegl. Überstunden
+  number: '62466'
+  mapped_to: ''
+- original: ausgegl. Überstd lt. Plan
+  number: '62467'
+  mapped_to: ''
+- original: 24.12./31.12. v.14 Uhr
+  number: '62468'
+  mapped_to: ''
+- original: 24.12. ab 14 Uhr
+  number: '62469'
+  mapped_to: ''
+- original: 31.12. ab 14 Uhr
+  number: '62470'
+  mapped_to: ''
+- original: Sonntagsarbeit 25 %
+  number: '62471'
+  mapped_to: ''
+- original: Sonntag und Nacht
+  number: '62472'
+  mapped_to: ''
+- original: So/Nacht Beginn vor 0 Uhr
+  number: '62473'
+  mapped_to: ''
+- original: So/Nacht Beg. v. 0 Uhr 1,28
+  number: '62474'
+  mapped_to: ''
+- original: Feiertagszuschlag
+  number: '62475'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez.(Anp.)
+  number: '62478'
+  mapped_to: ''
+- original: Beruf.-Leist.Bez.(unb)
+  number: '62479'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez(bef.)
+  number: '62480'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez.(Anp)
+  number: '62481'
+  mapped_to: ''
+- original: Bes. LBez.-§4 (Anp-befr)
+  number: '62482'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez.
+  number: '62483'
+  mapped_to: ''
+- original: Bes. LBez.-§4 (befr)
+  number: '62484'
+  mapped_to: ''
+- original: Inflationsausgleichsprämie nach §3 Nr.11c EStG vom 26.10.
+  number: '62485'
+  mapped_to: ''
+- original: Inflationsausgleichsprämie Einmalzahlung Azubi (1.800 €)
+  number: '62486'
+  mapped_to: ''
+- original: Inflationsausgleichsprämie Monatszahlung AN (120 €)
+  number: '62487'
+  mapped_to: ''
+- original: Inflationsausgleichsprämie Monatszahlung Besoldg./Versorg. (120 €)
+  number: '62488'
+  mapped_to: ''
+- original: Amtszulage A13/FN10 (KLIA)
+  number: '62489'
+  mapped_to: ''
+- original: Schichtzulage Tarif a
+  number: '62522'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez.
+  number: '62584'
+  mapped_to: ''
+- original: Festbetr stzvfr svpf oZuw
+  number: '62610'
+  mapped_to: ''
+- original: ZZ Feiertag 100 %
+  number: '62641'
+  mapped_to: ''
+- original: Feiertag am Werktag o.FZA
+  number: '62642'
+  mapped_to: ''
+- original: ZZ Feiertag plus Nacht
+  number: '62643'
+  mapped_to: ''
+- original: Feier/Nacht Beg vor 0 Uhr
+  number: '62644'
+  mapped_to: ''
+- original: ZZ Weihnachten / Mai
+  number: '62645'
+  mapped_to: ''
+- original: Weih/Mai/Nacht Beg vor 0 Uhr
+  number: '62646'
+  mapped_to: ''
+- original: ZZ Weihn. / Mai Nacht
+  number: '62647'
+  mapped_to: ''
+- original: Durchschnitt §21 TV-L
+  number: '62648'
+  mapped_to: ''
+- original: Durchschnitt-VM §21 TV-L
+  number: '62649'
+  mapped_to: ''
+- original: ATZ Durchschn. Ur/Kr TV-L
+  number: '62650'
+  mapped_to: ''
+- original: ATZ Durch.-VM Ur/Kr TV-L
+  number: '62651'
+  mapped_to: ''
+- original: Wechselschichtzul. mtl.
+  number: '62652'
+  mapped_to: ''
+- original: Wechselschichtzul. stdl.
+  number: '62653'
+  mapped_to: ''
+- original: Schichtzulage mtl.
+  number: '62654'
+  mapped_to: ''
+- original: Schichtzulage stdl.
+  number: '62655'
+  mapped_to: ''
+- original: Erschwerniszuschlag I
+  number: '62656'
+  mapped_to: ''
+- original: Erschwerniszuschlag II
+  number: '62657'
+  mapped_to: ''
+- original: Erschwerniszuschlag III
+  number: '62658'
+  mapped_to: ''
+- original: Erschwerniszuschlag IV
+  number: '62659'
+  mapped_to: ''
+- original: Erschwerniszuschlag V
+  number: '62660'
+  mapped_to: ''
+- original: Aufstockg.UrlE §21 TV-L
+  number: '62661'
+  mapped_to: ''
+- original: Erschwerniszuschlag VI
+  number: '62710'
+  mapped_to: ''
+- original: Erschwerniszuschlag VII
+  number: '62711'
+  mapped_to: ''
+- original: Erschwerniszuschlag VIII
+  number: '62712'
+  mapped_to: ''
+- original: Erschwerniszuschlag IX
+  number: '62713'
+  mapped_to: ''
+- original: Erschwerniszuschlag X
+  number: '62714'
+  mapped_to: ''
+- original: ÜStd. Teilzeit
+  number: '62715'
+  mapped_to: ''
+- original: ÜStd. Vollzeit
+  number: '62716'
+  mapped_to: ''
+- original: ÜStd. Vollzeit lt. Plan
+  number: '62717'
+  mapped_to: ''
+- original: Mehrarbeit
+  number: '62718'
+  mapped_to: ''
+- original: Mehrarbeit  man.
+  number: '62719'
+  mapped_to: ''
+- original: Mehrarb.TVL Lehrer
+  number: '62720'
+  mapped_to: ''
+- original: ÜStd. ohne Zeitzuschlag
+  number: '62721'
+  mapped_to: ''
+- original: Verg. Rufbereit. 12,5%
+  number: '62727'
+  mapped_to: ''
+- original: Rufbereit. Arbeitseinsatz
+  number: '62728'
+  mapped_to: ''
+- original: Rufbereit. Pausch. Mo-Fr
+  number: '62729'
+  mapped_to: ''
+- original: Rufbereit. Pausch. WE+FT
+  number: '62730'
+  mapped_to: ''
+- original: Übergangsgeld stpfl
+  number: '62731'
+  mapped_to: ''
+- original: erg. Leistung (BS) Zahl.
+  number: '62738'
+  mapped_to: ''
+- original: Festbetr stsvpf zvfr oZuw
+  number: '62739'
+  mapped_to: ''
+- original: Festbetr stsvzvfr oZuw
+  number: '62740'
+  mapped_to: ''
+- original: Festbetr stzvfr svpf oZuw
+  number: '62741'
+  mapped_to: ''
+- original: Festbetr stsvzvpf mZuw
+  number: '62742'
+  mapped_to: ''
+- original: Festbetr stsvpf zvfr oZuw
+  number: '62743'
+  mapped_to: ''
+- original: Festbetr stsvpf zvfr mZuw
+  number: '62744'
+  mapped_to: ''
+- original: Festbetr stpf svzvfr mZuw
+  number: '62745'
+  mapped_to: ''
+- original: Festbetr stsvzvpf oZuw
+  number: '62746'
+  mapped_to: ''
+- original: Festbetr stsvzvfr mZuw
+  number: '62747'
+  mapped_to: ''
+- original: 'HLA: Vorwegg.Stufensteig.'
+  number: '62757'
+  mapped_to: ''
+- original: 'HLA: Vorwegg.Stufensteig.'
+  number: '62758'
+  mapped_to: ''
+- original: Orts- und Familienzuschl. St1f
+  number: '62759'
+  mapped_to: ''
+- original: AG-Zuschuss Vermögensbildung
+  number: '62760'
+  mapped_to: ''
+- original: Orts- und Familienzuschl. St V
+  number: '62761'
+  mapped_to: ''
+- original: OFZ Besitzstand FZ
+  number: '62762'
+  mapped_to: ''
+- original: OFZ Nachzahlung SoBA
+  number: '62763'
+  mapped_to: ''
+- original: OFZ Nachzahlung Sob5
+  number: '62764'
+  mapped_to: ''
+- original: Festbetrag
+  number: '62780'
+  mapped_to: ''
+- original: Mehrarbeitslohn
+  number: '62781'
+  mapped_to: ''
+- original: Tabellenentgelt
+  number: '62782'
+  mapped_to: ''
+- original: Tab.Entg. Zwisch.-/Endst.
+  number: '62783'
+  mapped_to: ''
+- original: Ausbildungsentgelt
+  number: '62784'
+  mapped_to: ''
+- original: Familienzuschlag gesamt
+  number: '62785'
+  mapped_to: ''
+- original: Technikerzulage
+  number: '62786'
+  mapped_to: ''
+- original: Textverarbeitungszulage
+  number: '62787'
+  mapped_to: ''
+- original: Zul.pausch. Kernforscher
+  number: '62788'
+  mapped_to: ''
+- original: Gefahrenzulage
+  number: '62789'
+  mapped_to: ''
+- original: Baustellenzulage
+  number: '62790'
+  mapped_to: ''
+- original: Meisterzulage
+  number: '62791'
+  mapped_to: ''
+- original: Familienzuschlag Stufe 1 - pos.
+  number: '62792'
+  mapped_to: ''
+- original: Familienzuschlag Kind(er) - pos.
+  number: '62793'
+  mapped_to: ''
+- original: Ortszuschlag gesamt
+  number: '62794'
+  mapped_to: ''
+- original: Besitzstand Kinder
+  number: '62795'
+  mapped_to: ''
+- original: Gefahrenzulage
+  number: '62796'
+  mapped_to: ''
+- original: Pflegezulage
+  number: '62797'
+  mapped_to: ''
+- original: pers. Zulage (Funktion)
+  number: '62798'
+  mapped_to: ''
+- original: pers. Zulage (Bewährung)
+  number: '62799'
+  mapped_to: ''
+- original: Funktionszulage Besitzst.
+  number: '62800'
+  mapped_to: ''
+- original: Funktionszulage (BAT7)
+  number: '62801'
+  mapped_to: ''
+- original: Funktionszulage (BAT8)
+  number: '62802'
+  mapped_to: ''
+- original: Familienzulage Kind(er) - pos.
+  number: '62804'
+  mapped_to: ''
+- original: Techniker-Besitzstandszul
+  number: '62805'
+  mapped_to: ''
+- original: Besitzstand Vergütung
+  number: '62807'
+  mapped_to: ''
+- original: Besitzstand § 7 Pkw-TV
+  number: '62808'
+  mapped_to: ''
+- original: Zulage nach EG 14
+  number: '62811'
+  mapped_to: ''
+- original: Vertretungszulage
+  number: '62812'
+  mapped_to: ''
+- original: Vorarbeiterzulage 8%
+  number: '62813'
+  mapped_to: ''
+- original: Vorarbeiterzulage 12%
+  number: '62814'
+  mapped_to: ''
+- original: Vorarbeiterzulage ATZ 12%
+  number: '62815'
+  mapped_to: ''
+- original: Kernforschungszulage
+  number: '62816'
+  mapped_to: ''
+- original: Persönliche Zulage IT
+  number: '62818'
+  mapped_to: ''
+- original: Aufzehrbare pers. Zulage
+  number: '62819'
+  mapped_to: ''
+- original: Mobilitätszul. SV-pfl.
+  number: '62820'
+  mapped_to: ''
+- original: Persönliche Zulage
+  number: '62821'
+  mapped_to: ''
+- original: Pers. Zulage HS Musik
+  number: '62822'
+  mapped_to: ''
+- original: Pers. Zulage nach EG_13
+  number: '62823'
+  mapped_to: ''
+- original: Ausgleich zum Entgelt
+  number: '62824'
+  mapped_to: ''
+- original: Garantiebtrg. Höhergrupp.
+  number: '62825'
+  mapped_to: ''
+- original: persönliche Zulage TVL
+  number: '62826'
+  mapped_to: ''
+- original: Programmiererzulage TVL
+  number: '62827'
+  mapped_to: ''
+- original: Vergütungsgruppenzul. TVL
+  number: '62828'
+  mapped_to: ''
+- original: Verg.grp.zul. Techniker
+  number: '62829'
+  mapped_to: ''
+- original: Verg.grp.zul. Meister
+  number: '62830'
+  mapped_to: ''
+- original: Verg.grp.zul. Erz. Vb 7,5
+  number: '62831'
+  mapped_to: ''
+- original: Bewähr.zul Schreibkräfte
+  number: '62832'
+  mapped_to: ''
+- original: Vergzul Abschnitt Q TVL
+  number: '62833'
+  mapped_to: ''
+- original: Pers.Zul. Höhergrupp.
+  number: '62836'
+  mapped_to: ''
+- original: Zuschuss Grundgeh. zv-pfl
+  number: '62837'
+  mapped_to: ''
+- original: DKZ Kraftfahrer
+  number: '62838'
+  mapped_to: ''
+- original: Pausch Erschw.zuschlag
+  number: '62841'
+  mapped_to: ''
+- original: Zusch.ausländ. SV-Beitrag
+  number: '62842'
+  mapped_to: ''
+- original: Außertar. Metallhandwzul.
+  number: '62843'
+  mapped_to: ''
+- original: Vorweggewährung § 16 TV-L
+  number: '62844'
+  mapped_to: ''
+- original: Zusätzl. Entg. § 16 TV-L
+  number: '62845'
+  mapped_to: ''
+- original: Leistungszulage § 40 TV-L
+  number: '62846'
+  mapped_to: ''
+- original: pers. Zulage (Leistung)
+  number: '62850'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez.(Anp.)
+  number: '62851'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez. (unp)
+  number: '62852'
+  mapped_to: ''
+- original: Bleib-Leist.-Bez. (Anp)
+  number: '62853'
+  mapped_to: ''
+- original: Bes. Leist.-Bez.-§4 (Anp)
+  number: '62855'
+  mapped_to: ''
+- original: Funk.-Leist.-Bez.(Rek/Pr)
+  number: '62857'
+  mapped_to: ''
+- original: Aufw.entsch. Tele Pausch
+  number: '62863'
+  mapped_to: ''
+- original: Fam.heimfahrten st/svfrei
+  number: '62864'
+  mapped_to: ''
+- original: Fam.heimfahrten st/svfpfl
+  number: '62865'
+  mapped_to: ''
+- original: Ehegattenanteil ungekürzt
+  number: '62867'
+  mapped_to: ''
+- original: Übertarifl. Zulage OZ
+  number: '62868'
+  mapped_to: ''
+- original: Ehegattenanteil ungek.man
+  number: '62869'
+  mapped_to: ''
+- original: Besitzstandzulage Kinder (AT)
+  number: '62870'
+  mapped_to: ''
+- original: Besitzst. Kinder Sonst.
+  number: '62871'
+  mapped_to: ''
+- original: Strukturausgleich
+  number: '62872'
+  mapped_to: ''
+- original: Strukturausgl. man.
+  number: '62873'
+  mapped_to: ''
+- original: Grundgehalt
+  number: '62874'
+  mapped_to: ''
+- original: Grundvergütung
+  number: '62875'
+  mapped_to: ''
+- original: Grundvergütung
+  number: '62876'
+  mapped_to: ''
+- original: Ausbildungsvergütung
+  number: '62877'
+  mapped_to: ''
+- original: Entgelt
+  number: '62878'
+  mapped_to: ''
+- original: Grundgehalt
+  number: '62879'
+  mapped_to: ''
+- original: Zahlung Art. 108 II S.2
+  number: '62880'
+  mapped_to: ''
+- original: Unterrichtsverg. svpfl
+  number: '62881'
+  mapped_to: ''
+- original: Zulage für Entgeltgruppe E9???
+  number: '62885'
+  mapped_to: ''
+- original: Jubiläumsaufwendungen
+  number: '62893'
+  mapped_to: ''
+- original: 25 jahre
+  number: '62897'
+  mapped_to: ''
+- original: sonderzahlung
+  number: '62898'
+  mapped_to: ''
+- original: Sonderzahlung
+  number: '629'
+  mapped_to: ''
+- original: sonstige Aufw. mit Entgeltcharakter
+  number: '62900'
+  mapped_to: ''
+- original: sonstige
+  number: '62905'
+  mapped_to: ''
+- original: sonstige
+  number: '62906'
+  mapped_to: ''
+- original: Vorarbeiterzulage
+  number: '62908'
+  mapped_to: ''
+- original: Zulage für Entgeltgr. E9 (neue)
+  number: '62909'
+  mapped_to: ''
+- original: Zahlung Vergleich
+  number: '62910'
+  mapped_to: ''
+- original: Sonst. Zahlung st/svpfl
+  number: '62911'
+  mapped_to: ''
+- original: Fachkräftezulage an Ingenieure
+  number: '62912'
+  mapped_to: ''
+- original: Zulage E9
+  number: '62913'
+  mapped_to: ''
+- original: Erstattung AAG
+  number: '62917'
+  mapped_to: ''
+- original: sonstige
+  number: '62918'
+  mapped_to: ''
+- original: Entgelt geleistete Arbeitszeit
+  number: '62920'
+  mapped_to: ''
+- original: So.Zahl.prod. LST,SV,ZV
+  number: '62921'
+  mapped_to: ''
+- original: PV Beitragserstattung
+  number: '62922'
+  mapped_to: ''
+- original: KV-Beitragserstattung
+  number: '62923'
+  mapped_to: ''
+- original: AngleichZul. EntgO Lehrer
+  number: '62929'
+  mapped_to: ''
+- original: Urlaubsabgeltung AN
+  number: '62952'
+  mapped_to: ''
+- original: sonst. L & G-aufwendungen
+  number: '62953'
+  mapped_to: ''
+- original: Sonst. Zahlung stpfl
+  number: '62954'
+  mapped_to: ''
+- original: Abfindung stpfl
+  number: '62957'
+  mapped_to: ''
+- original: Samstagsarbeit 20-21 Uhr
+  number: '62958'
+  mapped_to: ''
+- original: Garantiebtrg Höhergr. Man
+  number: '62960'
+  mapped_to: ''
+- original: Nachzahlung Erben
+  number: '62964'
+  mapped_to: ''
+- original: Besoldung
+  number: '63'
+  mapped_to: ''
+- original: Familienzuschlag Stufe 1 - neg.
+  number: '63339'
+  mapped_to: ''
+- original: Familienzuschlag Kind(er) - neg.
+  number: '63340'
+  mapped_to: ''
+- original: Erhöhtes Urlaubsentgelt §21 TVL
+  number: '63341'
+  mapped_to: ''
+- original: Allgemeine Stellenzulage (neu)
+  number: '63363'
+  mapped_to: ''
+- original: Hochschulleitungszulage
+  number: '63365'
+  mapped_to: ''
+- original: Leistungsprämie
+  number: '634'
+  mapped_to: ''
+- original: Dienstbezüge Beamte
+  number: '63400'
+  mapped_to: ''
+- original: Dienstbezüge Beamte  auch allg. BgA
+  number: '63400'
+  mapped_to: ''
+- original: Amtszul. Art. 27 Abs. 2
+  number: '63485'
+  mapped_to: ''
+- original: Amtszulage A9/FN 3
+  number: '63486'
+  mapped_to: ''
+- original: Amtszulage A13/FN10 (KLIB)
+  number: '63487'
+  mapped_to: ''
+- original: Beruf.-Leist-Bez. (bef.)
+  number: '63496'
+  mapped_to: ''
+- original: Ber-Leist-Bez(Anp)-zvpf
+  number: '63497'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez.(Anp.)
+  number: '63498'
+  mapped_to: ''
+- original: Beruf.-Leist.Bez.(unb)
+  number: '63499'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez(bef.)
+  number: '63500'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez.(Anp)
+  number: '63501'
+  mapped_to: ''
+- original: Bes. LBez.-§4 (Anp-befr)
+  number: '63502'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez.
+  number: '63503'
+  mapped_to: ''
+- original: Bes. LBez.-§4 (befr)
+  number: '63504'
+  mapped_to: ''
+- original: Funkt-Leist-B(Vrek/Vpräs)
+  number: '63505'
+  mapped_to: ''
+- original: Funkt.-Leist.-Bez. (Sonst. Pro.
+  number: '63506'
+  mapped_to: ''
+- original: Bes.Leist.-Bez.-§4 (Anp)
+  number: '63507'
+  mapped_to: ''
+- original: Bes.Leist.-Bez. - §4
+  number: '63508'
+  mapped_to: ''
+- original: Funk.-Leist-Bez.(Rek/Pr)
+  number: '63509'
+  mapped_to: ''
+- original: Funkt.-Leist.-Bez.(Dekan)
+  number: '63510'
+  mapped_to: ''
+- original: Bes.Leist.-Bez (C2/Anp)
+  number: '63511'
+  mapped_to: ''
+- original: Strukturzul. Art. 33 Satz 1
+  number: '63512'
+  mapped_to: ''
+- original: Meisterzulage
+  number: '63515'
+  mapped_to: ''
+- original: Bewährungszul Juniorprof.
+  number: '63516'
+  mapped_to: ''
+- original: Zulage DUZ stpfl. mtl.
+  number: '63517'
+  mapped_to: ''
+- original: Schichtzulage 50% b
+  number: '63518'
+  mapped_to: ''
+- original: Kolleggeld
+  number: '63519'
+  mapped_to: ''
+- original: Nebenverg. Uniprediger
+  number: '63521'
+  mapped_to: ''
+- original: Auslandszuschlag
+  number: '63523'
+  mapped_to: ''
+- original: Lehrvergütung Hochschule
+  number: '63525'
+  mapped_to: ''
+- original: Unterr.verg. nbamtl. stpf
+  number: '63526'
+  mapped_to: ''
+- original: Unterr.verg. nbamtl. stfr
+  number: '63527'
+  mapped_to: ''
+- original: Lehrnb.verg. BayFHVR stfr
+  number: '63528'
+  mapped_to: ''
+- original: Lehrnb.verg. Aus-/Fb.stfr
+  number: '63530'
+  mapped_to: ''
+- original: Vortragsvergütung stpf
+  number: '63531'
+  mapped_to: ''
+- original: Prüfervergütung im Hptamt
+  number: '63532'
+  mapped_to: ''
+- original: Prüfervergütung selbst.
+  number: '63533'
+  mapped_to: ''
+- original: FKZ Lehrbeauftr. stfrei
+  number: '63534'
+  mapped_to: ''
+- original: Prüferbergütung pfl
+  number: '63535'
+  mapped_to: ''
+- original: Prüfervergütung frei
+  number: '63536'
+  mapped_to: ''
+- original: Prüfervergütung st/svpfl
+  number: '63537'
+  mapped_to: ''
+- original: Lehrauftragsvergütung
+  number: '63538'
+  mapped_to: ''
+- original: Unterrichtsverg. frei
+  number: '63539'
+  mapped_to: ''
+- original: Bes. Leistungsbez - Prüf.
+  number: '63541'
+  mapped_to: ''
+- original: Bes. Leistungsbez - sonstige
+  number: '63542'
+  mapped_to: ''
+- original: Forschungs- und Lehrzul.
+  number: '63545'
+  mapped_to: ''
+- original: Unter.Vg.Nebenamt-stfr.
+  number: '63546'
+  mapped_to: ''
+- original: Forschungs- und Lehrzul.
+  number: '63547'
+  mapped_to: ''
+- original: Neb.Forschung/Entwicklung
+  number: '63548'
+  mapped_to: ''
+- original: Zuschuss zum Mutterschaftsgeld
+  number: '63549'
+  mapped_to: ''
+- original: Zuschuss §5a BayMuttSchV
+  number: '63550'
+  mapped_to: ''
+- original: Leistungsprämie
+  number: '63551'
+  mapped_to: ''
+- original: Verm. AG-Anteil rückwirk.
+  number: '63552'
+  mapped_to: ''
+- original: Anw.bzüge nach Prüfung
+  number: '63553'
+  mapped_to: ''
+- original: Sonst. Zahlung frei
+  number: '63554'
+  mapped_to: ''
+- original: Erstatt. von and. Diensth
+  number: '63556'
+  mapped_to: ''
+- original: Sonderzahlung
+  number: '63557'
+  mapped_to: ''
+- original: Urlaubsabgeltung
+  number: '63558'
+  mapped_to: ''
+- original: Jubiläumszuwendung 25J
+  number: '63559'
+  mapped_to: ''
+- original: Jubiläumszuwendung 40J
+  number: '63560'
+  mapped_to: ''
+- original: Jubiläumszuwendung (man.)
+  number: '63561'
+  mapped_to: ''
+- original: FZ-Erhöh.beträge SoB 5
+  number: '63562'
+  mapped_to: ''
+- original: Leistungsprämie
+  number: '63563'
+  mapped_to: ''
+- original: Leistungsprämie Gruppe
+  number: '63564'
+  mapped_to: ''
+- original: Erfindervergütung
+  number: '63565'
+  mapped_to: ''
+- original: Karriereentwicklungszul.
+  number: '63566'
+  mapped_to: ''
+- original: FKZ Wechseltätigkeit
+  number: '63567'
+  mapped_to: ''
+- original: Umbuchung
+  number: '63570'
+  mapped_to: ''
+- original: Erlass / Niederschlagung
+  number: '63571'
+  mapped_to: ''
+- original: Einmalzahl. 06  BayEZG ms
+  number: '63573'
+  mapped_to: ''
+- original: Auszahlung Zinsen Bezüge
+  number: '63581'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez.
+  number: '63583'
+  mapped_to: ''
+- original: Bes.Leistungsbez. - Prüf.
+  number: '63585'
+  mapped_to: ''
+- original: Bes. Leistungsbez - sonstige
+  number: '63586'
+  mapped_to: ''
+- original: 'DUZ: Nacht'
+  number: '63587'
+  mapped_to: ''
+- original: 'DUZ: Samstag'
+  number: '63588'
+  mapped_to: ''
+- original: 'DUZ: Samstag erh. Satz'
+  number: '63589'
+  mapped_to: ''
+- original: 'DUZ: Sonntag'
+  number: '63590'
+  mapped_to: ''
+- original: 'DUZ: Feiertag'
+  number: '63591'
+  mapped_to: ''
+- original: 'DUZ: Vorf.samstag bis 20h'
+  number: '63592'
+  mapped_to: ''
+- original: 'DUZ: Vorf.samstag ab 20h'
+  number: '63593'
+  mapped_to: ''
+- original: 'DUZ: 24./31.12. bis 14h'
+  number: '63594'
+  mapped_to: ''
+- original: 'DUZ: 24./31.12. ab 14h'
+  number: '63595'
+  mapped_to: ''
+- original: Mehrarbeitsvergütung
+  number: '63596'
+  mapped_to: ''
+- original: Lehrauftragsverg. frei
+  number: '63598'
+  mapped_to: ''
+- original: Übergangsgeld stpfl
+  number: '63599'
+  mapped_to: ''
+- original: Bezug stpfl SoBA vorhist.
+  number: '63601'
+  mapped_to: ''
+- original: Bezug stfrei (vorhist.)
+  number: '63602'
+  mapped_to: ''
+- original: Festbetr stsvpf zvfr oZuw
+  number: '63608'
+  mapped_to: ''
+- original: Festbetr stsvzvfr oZuw
+  number: '63609'
+  mapped_to: ''
+- original: Festbetr stsvzvpf mZuw
+  number: '63611'
+  mapped_to: ''
+- original: Festbetr stsvpf zvfr oZuw
+  number: '63612'
+  mapped_to: ''
+- original: Festbetr stsvpf zvfr mZuw
+  number: '63613'
+  mapped_to: ''
+- original: Festbetr stpf svzvfr mZuw
+  number: '63614'
+  mapped_to: ''
+- original: Festbetr stsvzvpf oZuw
+  number: '63615'
+  mapped_to: ''
+- original: Festbetr stsvzvfr mZuw
+  number: '63616'
+  mapped_to: ''
+- original: 'HLA: Vorwegg.Stufensteig.'
+  number: '63627'
+  mapped_to: ''
+- original: 'HLA: Vorwegg.Stufensteig.'
+  number: '63628'
+  mapped_to: ''
+- original: AG-Zuschuss Vermögensbildung
+  number: '63629'
+  mapped_to: ''
+- original: Familienzuschlag gesamt
+  number: '63663'
+  mapped_to: ''
+- original: Familienzuschlag Stufe 1 - pos.
+  number: '63664'
+  mapped_to: ''
+- original: Familienzuschlag Kind(er) - pos.
+  number: '63665'
+  mapped_to: ''
+- original: Ausgl.zul. 13I GG/AZ
+  number: '63668'
+  mapped_to: ''
+- original: Ausgl.zul. 13II bes. StZ
+  number: '63669'
+  mapped_to: ''
+- original: Ausgl.zul. 13II sonst.
+  number: '63670'
+  mapped_to: ''
+- original: Ausgl.zul. VB 7 Bay
+  number: '63671'
+  mapped_to: ''
+- original: Anwärtersonderzuschlag
+  number: '63674'
+  mapped_to: ''
+- original: Nrgf. Zuschuss/GG VB 1
+  number: '63675'
+  mapped_to: ''
+- original: Nrgf. Sonderzuschuss VB 2
+  number: '63676'
+  mapped_to: ''
+- original: Rgf. Sonderzuschuss VB 2
+  number: '63677'
+  mapped_to: ''
+- original: Zuschuss Grundgeh. zv-pfl
+  number: '63678'
+  mapped_to: ''
+- original: DKZ Kraftfahrer
+  number: '63679'
+  mapped_to: ''
+- original: Nrgf. Sonderzusch Planst.
+  number: '63682'
+  mapped_to: ''
+- original: Nrgf. Sonderzusch Erhbetr.
+  number: '63683'
+  mapped_to: ''
+- original: Nrgf nanr Überl.Sondzusch
+  number: '63684'
+  mapped_to: ''
+- original: Rgf. SondZusch Planst.
+  number: '63685'
+  mapped_to: ''
+- original: Rgf anr Überl.Sondzusch
+  number: '63686'
+  mapped_to: ''
+- original: Rgf nanr Überl.Sondzusch
+  number: '63687'
+  mapped_to: ''
+- original: Zusch.ausländ. SV-Beitrag
+  number: '63688'
+  mapped_to: ''
+- original: Leistungszulage § 40 TV-L
+  number: '63689'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez.(bef.)
+  number: '63693'
+  mapped_to: ''
+- original: Leistungszulage
+  number: '63694'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez.(Anp.)
+  number: '63695'
+  mapped_to: ''
+- original: Beruf.-Leist.-Bez. (unp)
+  number: '63696'
+  mapped_to: ''
+- original: Bleib-Leist.-Bez. (Anp)
+  number: '63697'
+  mapped_to: ''
+- original: Bleibe-Leist.-Bez.
+  number: '63698'
+  mapped_to: ''
+- original: Bes. Leist.-Bez.-§4 (Anp)
+  number: '63699'
+  mapped_to: ''
+- original: Funk.-Leist.-Bez.(Rek/Pr)
+  number: '63701'
+  mapped_to: ''
+- original: Funk.-Leist.-Bez.(Dekan)
+  number: '63702'
+  mapped_to: ''
+- original: Bewährungszul Juniorprof.
+  number: '63707'
+  mapped_to: ''
+- original: Grundgehalt
+  number: '63708'
+  mapped_to: ''
+- original: Anwärtergrundbetrag
+  number: '63709'
+  mapped_to: ''
+- original: Forsch.- und Lehrzul. lfd
+  number: '63882'
+  mapped_to: ''
+- original: Forsch.- und Lehrzul. Einm.
+  number: '63883'
+  mapped_to: ''
+- original: Beruf.Leist.Bez
+  number: '63887'
+  mapped_to: ''
+- original: Zahlung
+  number: '63888'
+  mapped_to: ''
+- original: Amtszulage
+  number: '63889'
+  mapped_to: ''
+- original: Sonstige
+  number: '63890'
+  mapped_to: ''
+- original: Sonstige
+  number: '63891'
+  mapped_to: ''
+- original: Sonstige
+  number: '63892'
+  mapped_to: ''
+- original: So.zahlung Ausgleichsbez.
+  number: '63899'
+  mapped_to: ''
+- original: Erfindervergütung
+  number: '639'
+  mapped_to: ''
+- original: Unterschiedsbetrag GG
+  number: '63902'
+  mapped_to: ''
+- original: PV Beitragserstattung
+  number: '63903'
+  mapped_to: ''
+- original: Anwärtergrundbetrag
+  number: '63907'
+  mapped_to: ''
+- original: Urlaubsabgeltung BES
+  number: '63912'
+  mapped_to: ''
+- original: Urlaubsabgeltung Besoldung § 9 UrlMV
+  number: '63913'
+  mapped_to: ''
+- original: Abfindung stpfl.
+  number: '63914'
+  mapped_to: ''
+- original: Trennungsgeld
+  number: '63915'
+  mapped_to: ''
+- original: Lohnzulage Beamte
+  number: '63916'
+  mapped_to: ''
+- original: Trennungsg. Überz. IT 15
+  number: '63917'
+  mapped_to: ''
+- original: Ministerialzulage
+  number: '63949'
+  mapped_to: ''
+- original: Einmalzahlung 2017
+  number: '63950'
+  mapped_to: ''
+- original: zeitanteilige Besoldung
+  number: '63951'
+  mapped_to: ''
+- original: sonst. L&G-Aufwenungen
+  number: '63953'
+  mapped_to: ''
+- original: Nachzahlung Erben (man.)
+  number: '63959'
+  mapped_to: ''
+- original: Leistungsprämie TV-L
+  number: '63961'
+  mapped_to: ''
+- original: Dienstbezüge Beamte  Feiert./31.12.  20h-6h
+  number: '63962'
+  mapped_to: ''
+- original: PV-Beitragserstattg-Änderung
+  number: '63963'
+  mapped_to: ''
+- original: CTT Pauschale Nebenamtsvergütung (BES)
+  number: '63969'
+  mapped_to: ''
+- original: Leistungsprämie-Corona Besoldung
+  number: '63970'
+  mapped_to: ''
+- original: Sonderzahlung-Corona Besoldung
+  number: '63971'
+  mapped_to: ''
+- original: Orts- und Familienzusch. St.1f
+  number: '63972'
+  mapped_to: ''
+- original: Orts- und Familienzusch. St.V
+  number: '63973'
+  mapped_to: ''
+- original: Orts- und Familienzusch. St.L
+  number: '63974'
+  mapped_to: ''
+- original: OFZ Besitzstand FZ
+  number: '63975'
+  mapped_to: ''
+- original: OFZ Nachzahlung SoBA
+  number: '63976'
+  mapped_to: ''
+- original: OFZ Nachzahlung SoB5
+  number: '63977'
+  mapped_to: ''
+- original: Ruhensbetrag §55
+  number: '63978'
+  mapped_to: ''
+- original: Ruhegehalt
+  number: '63979'
+  mapped_to: ''
+- original: 'Zuschlag Art. 60 - Art. 60 BayBesG, manuelle Betragsvorgabe (bis 31.12.2010
+    Sonderzuschlag: § 72 BBesG; Höchstens 10 % des Anfangsgrundgehalts der Besoldungsgruppe
+    (Grundgehalt + Sonderzuschlag = höchstes Endgrundgehalt'
+  number: '63980'
+  mapped_to: ''
+- original: Leistungsprämie Art. 67 BayBes
+  number: '63981'
+  mapped_to: ''
+- original: Zuschlag IT-Fachkräfte
+  number: '63982'
+  mapped_to: ''
+- original: Inflationsausgleichsprämie Azubi (1.800 €)
+  number: '63983'
+  mapped_to: ''
+- original: InflationsausgPr. Monatszahlung Besoldung./Versorg. (120 €)
+  number: '63984'
+  mapped_to: ''
+- original: Soziale Abgaben
+  number: '64'
+  mapped_to: ''
+- original: AG-Anteil SV
+  number: '640'
+  mapped_to: ''
+- original: AG-Anteil Sozialversicherung
+  number: '64000'
+  mapped_to: ''
+- original: Versorgungsbezüge
+  number: '64300'
+  mapped_to: ''
+- original: Verm. AG-Anteil (Entsch.)
+  number: '64409'
+  mapped_to: ''
+- original: Verm. AG-Anteil manuell
+  number: '64411'
+  mapped_to: ''
+- original: Verm. AG-Anteil (Entsch.)
+  number: '64555'
+  mapped_to: ''
+- original: KV-Beitragserstattung
+  number: '64568'
+  mapped_to: ''
+- original: KV-Beitragserstattung bei Änderung
+  number: '64569'
+  mapped_to: ''
+- original: Versorgungsfond höherer Dienst
+  number: '64619'
+  mapped_to: ''
+- original: Versorgungsfond gehobener Dienst
+  number: '64620'
+  mapped_to: ''
+- original: Versorgungsfond
+  number: '64623'
+  mapped_to: ''
+- original: Versorgungsfond höherer Dienst
+  number: '64624'
+  mapped_to: ''
+- original: Versorgungsfond gehobener Dienst
+  number: '64625'
+  mapped_to: ''
+- original: AG-Aufwand Altersteilzeit
+  number: '64631'
+  mapped_to: ''
+- original: AG-Aufwand Altersteilzeit
+  number: '64632'
+  mapped_to: ''
+- original: AG-Aufwand Krankenversicherung
+  number: '64633'
+  mapped_to: ''
+- original: AG-Aufwand Rentenversicherung
+  number: '64634'
+  mapped_to: ''
+- original: AG-Aufwand Pflegeversicherung
+  number: '64635'
+  mapped_to: ''
+- original: AG-Aufwand SV-Umlage U2
+  number: '64636'
+  mapped_to: ''
+- original: AG-Aufwand Umlagen Zusatzversorg.
+  number: '64637'
+  mapped_to: ''
+- original: AG-Aufwand Sanierungsgeld
+  number: '64638'
+  mapped_to: ''
+- original: AG-Aufwand Sanierungsgeld - jährlich
+  number: '64639'
+  mapped_to: ''
+- original: AG-Steuern
+  number: '64640'
+  mapped_to: ''
+- original: Versorgungsfond höherer Dienst
+  number: '64750'
+  mapped_to: ''
+- original: Versorgungsfond gehobener Dienst
+  number: '64751'
+  mapped_to: ''
+- original: Versorgungsfond mittlerer Dienst
+  number: '64752'
+  mapped_to: ''
+- original: Versorgungsfond
+  number: '64754'
+  mapped_to: ''
+- original: Versorgungsfond höherer Dienst
+  number: '64755'
+  mapped_to: ''
+- original: steuerpflichtige SV-AG-Anteile
+  number: '64759'
+  mapped_to: ''
+- original: AG-Aufwand Altersteilzeit
+  number: '64762'
+  mapped_to: ''
+- original: AG-Aufwand Altersteilzeit
+  number: '64763'
+  mapped_to: ''
+- original: maschineller Zuschuss zum Mutterschutz
+  number: '64764'
+  mapped_to: ''
+- original: AG-Aufwand Krankenversicherung
+  number: '64765'
+  mapped_to: ''
+- original: AG-Aufwand Rentenversicherung
+  number: '64766'
+  mapped_to: ''
+- original: AG-Aufwand Pflegeversicherung
+  number: '64767'
+  mapped_to: ''
+- original: AG-Aufwand SV-Umlage U2
+  number: '64768'
+  mapped_to: ''
+- original: AG-Aufwand Zuschuss Krankenversg.
+  number: '64769'
+  mapped_to: ''
+- original: AG-Aufwand Zuschuss Rentenversorg.
+  number: '64770'
+  mapped_to: ''
+- original: AG-Aufwand Zuschuss Pflegeversorg.
+  number: '64771'
+  mapped_to: ''
+- original: AG-Aufwand Umlagen Zusatzversorg.
+  number: '64772'
+  mapped_to: ''
+- original: AG-Aufwand Beiträge Zusatzversorg.
+  number: '64773'
+  mapped_to: ''
+- original: AG-Aufwand Sanierungsgeld
+  number: '64774'
+  mapped_to: ''
+- original: AG-Aufwand Sanierungsgeld - jährlich
+  number: '64775'
+  mapped_to: ''
+- original: AG-Steuern
+  number: '64776'
+  mapped_to: ''
+- original: IFSG-Betreuung Kind IFSG (Infektionsschutzgesetz)
+  number: '64777'
+  mapped_to: ''
+- original: AG-Aufwand Zuschuss Krankenversicherung
+  number: '64778'
+  mapped_to: ''
+- original: AG-Aufwand Zuschuss Pflegeversicherung
+  number: '64779'
+  mapped_to: ''
+- original: Sonstge Aufwend. Altersversorgung
+  number: '64800'
+  mapped_to: ''
+- original: Sonstige Aufwend. Alterversorung
+  number: '64800'
+  mapped_to: ''
+- original: AG-Aufwand Rentenversicherung
+  number: '64879'
+  mapped_to: ''
+- original: Beihilfen
+  number: '64900'
+  mapped_to: ''
+- original: Beihilfen und Unterstützungsleistungen
+  number: '64900'
+  mapped_to: ''
+- original: Leistungsbezüge
+  number: '64901'
+  mapped_to: ''
+- original: Sonstige Personalaufwendungen
+  number: '65'
+  mapped_to: ''
+- original: Inserate/ Annoncen
+  number: '65000'
+  mapped_to: ''
+- original: Inserate/Annoncen
+  number: '65000'
+  mapped_to: ''
+- original: Trennungsgeld
+  number: '65100'
+  mapped_to: ''
+- original: Umzugskosten
+  number: '65120'
+  mapped_to: ''
+- original: sonstige Reisekosten an Externe
+  number: '65130'
+  mapped_to: ''
+- original: Lehrnb.verg. Aus-/Fortb.
+  number: '65347'
+  mapped_to: ''
+- original: EStdVerg. Stud. svfrei
+  number: '65350'
+  mapped_to: ''
+- original: Fahrkostenerst TVA-L BBiG
+  number: '65389'
+  mapped_to: ''
+- original: Fortbildung
+  number: '65400'
+  mapped_to: ''
+- original: Lehrnb.verg. Aus-/Fortb.
+  number: '65529'
+  mapped_to: ''
+- original: Aufw.  Nebenamtliche, nebenberufliche o. ehrenamtliche Tätigkeiten
+  number: '65700'
+  mapped_to: ''
+- original: Aufw. nebenamtlich, nebenberuflich o. ehrenamtlich Tätige
+  number: '65700'
+  mapped_to: ''
+- original: Sonstige Zuwendungen
+  number: '6571'
+  mapped_to: ''
+- original: Mutterschutz laufend
+  number: '65886'
+  mapped_to: ''
+- original: Mutterschutz unständig
+  number: '65887'
+  mapped_to: ''
+- original: Allgemeine sonstige Personalausgaben
+  number: '65900'
+  mapped_to: ''
+- original: Prüferverg. stpfl
+  number: '6591'
+  mapped_to: ''
+- original: Fahrtkostenerstattung
+  number: '65919'
+  mapped_to: ''
+- original: § 11 MuSchG laufend
+  number: '65949'
+  mapped_to: ''
+- original: unbekannt
+  number: '65956'
+  mapped_to: ''
+- original: Abschreibungen auf immaterielle Vermögensgegenstände
+  number: '66100'
+  mapped_to: ''
+- original: Abschreibungen auf Gebäude, Geschäftseinrichtungen
+  number: '66200'
+  mapped_to: ''
+- original: Abschreibungen auf technische Anlagen und Maschinen
+  number: '66300'
+  mapped_to: ''
+- original: Abschreibungen auf wissenschaftliche Anlagen und Maschinen
+  number: '66350'
+  mapped_to: ''
+- original: Abschreibungen auf Betriebs- und Geschäftsausstattung
+  number: '66400'
+  mapped_to: ''
+- original: Sonstige Abschreibungen
+  number: '66900'
+  mapped_to: ''
+- original: Softwarelizenzen
+  number: '67000'
+  mapped_to: ''
+- original: Mieten für Räume, Gebäude
+  number: '67001'
+  mapped_to: ''
+- original: Miete Fernmeldeanlage
+  number: '67090'
+  mapped_to: ''
+- original: Leasing
+  number: '67100'
+  mapped_to: ''
+- original: Leiharbeitskräfte
+  number: '67400'
+  mapped_to: ''
+- original: Werkverträge
+  number: '67401'
+  mapped_to: ''
+- original: Gerätenutzungsstunden
+  number: '67730'
+  mapped_to: ''
+- original: Allgemeine Betriebs- und Verwaltungskosten
+  number: '67750'
+  mapped_to: ''
+- original: Materialeinsatz
+  number: '68000'
+  mapped_to: ''
+- original: Materialeinsatz Uni - Shop
+  number: '68001'
+  mapped_to: ''
+- original: Geschäfts-/Bürobedarf
+  number: '68002'
+  mapped_to: ''
+- original: Drucke, Kopien
+  number: '68010'
+  mapped_to: ''
+- original: Bücher
+  number: '68100'
+  mapped_to: ''
+- original: Zeitschriften und Zeitungen
+  number: '68101'
+  mapped_to: ''
+- original: Fortssetzungswerke
+  number: '68104'
+  mapped_to: ''
+- original: Erwerb sonstiger Publikationen
+  number: '68108'
+  mapped_to: ''
+- original: Mikromaterial (Bild)
+  number: '68110'
+  mapped_to: ''
+- original: AV-Material (Ton, Film, Dia, Tonbild, )
+  number: '68111'
+  mapped_to: ''
+- original: ebooks
+  number: '68120'
+  mapped_to: ''
+- original: Zeitschriften und Zeitungen in elektr. Form
+  number: '68121'
+  mapped_to: ''
+- original: Datenbanken
+  number: '68124'
+  mapped_to: ''
+- original: Veröffentlichungen von Publikationen DURCH Wissenschaftler der UBT (in
+    Zeitschriften, Büchern ect.)
+  number: '68160'
+  mapped_to: ''
+- original: Porto
+  number: '68200'
+  mapped_to: ''
+- original: Telefon (allgemein)
+  number: '68301'
+  mapped_to: ''
+- original: Telefongrundgebühren
+  number: '68302'
+  mapped_to: ''
+- original: Leitungs- und Ausgleichsgebühren
+  number: '68303'
+  mapped_to: ''
+- original: Fernmeldegebühren (Gespräche)
+  number: '68304'
+  mapped_to: ''
+- original: Mobiltelefon
+  number: '68305'
+  mapped_to: ''
+- original: Rundfunk- und Fernsehgebühren, Modems
+  number: '68390'
+  mapped_to: ''
+- original: sonstige Post- und Fernmeldegebühren
+  number: '68390'
+  mapped_to: ''
+- original: Reisekosten (auch Forschung und Lehre)
+  number: '68500'
+  mapped_to: ''
+- original: Kongresse
+  number: '68505'
+  mapped_to: ''
+- original: Forschungsreisen und Grundkosten Veranstaltungen/Fachtagungen/Kongresse
+  number: '68510'
+  mapped_to: ''
+- original: Grundkosten _Studentische_Veranstaltungen
+  number: '68511'
+  mapped_to: ''
+- original: Grundkosten_Weiterbildung_ Immatrikulierte Studiengänge
+  number: '68515'
+  mapped_to: ''
+- original: Grundkosten_Weiterbildung_ Zertifikatslehrgänge
+  number: '68516'
+  mapped_to: ''
+- original: Exkursionen und Zusatzkosten_Veranstaltungen / Fachtagungen/Kongresse
+  number: '68520'
+  mapped_to: ''
+- original: Studentische Veranstaltungen_Zusatzkosten
+  number: '68521'
+  mapped_to: ''
+- original: Studentische Veranstaltungen_Abgabe von Speisen & Getränken
+  number: '68522'
+  mapped_to: ''
+- original: Campus Akademie_Immatrikulierte Studiengänge_Zusatzkosten
+  number: '68525'
+  mapped_to: ''
+- original: Campus Akademie_Zertifikatslehrgänge_Zusatzkosten
+  number: '68526'
+  mapped_to: ''
+- original: Gästebewirtung
+  number: '68600'
+  mapped_to: ''
+- original: Repräsentation, PR, Werbung
+  number: '68610'
+  mapped_to: ''
+- original: Sonstige Aufwendungen
+  number: '68900'
+  mapped_to: ''
+- original: Umlage Industrieoverhead
+  number: '68990'
+  mapped_to: ''
+- original: Kostenzuschüsse im Bereich der Betriebe gewerblicher Art
+  number: '68991'
+  mapped_to: ''
+- original: Versicherungen
+  number: '69000'
+  mapped_to: ''
+- original: Mitgliedsbeiträge (Verbände, Organisationen, Vereine u.Gesellschaften)
+  number: '69100'
+  mapped_to: ''
+- original: Private PKW-Nutzung
+  number: '69371'
+  mapped_to: ''
+- original: Weitere Aufwendungen DFG
+  number: '69700'
+  mapped_to: ''
+- original: Preisgelder
+  number: '69790'
+  mapped_to: ''
+- original: Betriebstechnische Geräte, Maschinen und Anlagen
+  number: '7000'
+  mapped_to: ''
+- original: Steuern und Abgaben
+  number: '70000'
+  mapped_to: ''
+- original: KFZ-Steuer
+  number: '70300'
+  mapped_to: ''
+- original: Abzugsfähige Vorsteuer
+  number: '70700'
+  mapped_to: ''
+- original: Pauschale Vorsteuer
+  number: '70701'
+  mapped_to: ''
+- original: abzuführende Umsatzsteuer
+  number: '70750'
+  mapped_to: ''
+- original: Umsatzsteuerzahllast
+  number: '70760'
+  mapped_to: ''
+- original: Ertragsteuerumlage
+  number: '70770'
+  mapped_to: ''
+- original: Körperschaftsteuer/Kapitalertragsteuer
+  number: '70771'
+  mapped_to: ''
+- original: Gewerbesteuer/Gewerbeertragsteuer
+  number: '70772'
+  mapped_to: ''
+- original: Ausländische Quellensteuer
+  number: '70775'
+  mapped_to: ''
+- original: Umsatz auf Festtitel
+  number: '70777'
+  mapped_to: ''
+- original: Vorsteuer auf Festtitel
+  number: '70778'
+  mapped_to: ''
+- original: Maschinensoftware
+  number: '7100'
+  mapped_to: ''
+- original: Wissenschaftliche Geräte, Maschinen und Anlagen
+  number: '7200'
+  mapped_to: ''
+- original: Schreib-, Rechen-, Druck- und sonstige Maschinen
+  number: '7300'
+  mapped_to: ''
+- original: Stipendien (allgemein)
+  number: '73000'
+  mapped_to: ''
+- original: Reisestipendien
+  number: '73001'
+  mapped_to: ''
+- original: Stipendien für Graduierte
+  number: '73002'
+  mapped_to: ''
+- original: Mahngebühren
+  number: '75205'
+  mapped_to: ''
+- original: Sonstige Zuführungen an Rücklagen
+  number: '79690'
+  mapped_to: ''
+- original: Werkzeuge
+  number: '8200'
+  mapped_to: ''
+- original: Gärtnereibedarf
+  number: '8500'
+  mapped_to: ''
+- original: Sonstige Betriebsausst. (z.B. Fotographische Geräte)
+  number: '8500'
+  mapped_to: ''
+- original: Sonstige Betriebsausst. (z.B. Sportgeräte)
+  number: '8500'
+  mapped_to: ''
+- original: Möbel
+  number: '8700'
+  mapped_to: ''
