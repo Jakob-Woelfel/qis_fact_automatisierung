@@ -3,37 +3,75 @@
 # ────────────────────────────────────────────────────────
 # Diese Datei ist die einzige die du anpassen musst.
 # Speichern nach Änderungen, dann starten.command doppelklicken.
+#
+# Quelle der Kostenstellen: QIS-Dropdown "Institution auswählen"
+# (Stand 21.09.2026). Kommentarformat: QIS-Bezeichnung | Projektname
+# Nur hier gelistete Nummern sind in QIS abrufbar.
+
+# Stand: 21.09.2026 alle Projektkostenstellen im Jahr 2026 aktualisiert.
 
 kostenstellen:
-  # ── Aktive Kostenstellen ──────────────────────────────
-  - "P00422371"   # (Name bitte ergänzen)
-  - "P00482372"   # (Name bitte ergänzen)
-  - "P00822372"   # (Name bitte ergänzen)
-  - "P00442172"   # (Name bitte ergänzen)
+  # ══ Verfügbare Kostenstellen (auskommentiert) ══
 
-  # ── Weitere verfügbare Kostenstellen (auskommentiert) ─
+  # ── Institutionen: Sonstige ───────────────────────────
+  # - "00000273"   # INO Koop. Bayern-AUS, Eyma   | Bavarian Queensland Research Alliance
+  # - "10059086"   # VHB
+  # - "15027811"   # GPU-Antr./Dig. Röglinger     | GPU-Antrag / Digitalisierung
+  # - "27009801"   # Chief Information Office     | CIO
+  # - "98001040"   # Green Campus, Umweltbeauf.
+  # - "98051600"   # DCB, dig. Souverän., Eymann  | Digitale Souveränität in der Verwaltung
+
+  # ── Institutionen: Haushaltsmittel ────────────────────
   # - "23000700"   # BWL VII, Eymann
-  # - "23000720"   # Haushaltsmittel JS
-  # - "23000740"   # Haushaltsmittel MR / Wirt.inform.III, Röglinger
-  # - "23004000"   # Haushaltsmittel NK
-  # - "23004050"   # Haushaltsmittel AO
-  # - "23764000"   # Investitionsmittel NK
-  # - "23764050"   # Investitionsmittel AO
-  # - "40000429"   # Literaturmittel JS
-  # - "40000434"   # Literaturmittel MR
-  # - "40000441"   # Literaturmittel NK
-  # - "40000442"   # Literaturmittel AO
-  # - "41710021"   # Ersatzmittel MR
-  # - "41920309"   # Ersatzmittel AO
-  # - "41920314"   # Ersatzmittel NK
-  # - "97130008"   # Sach- und Personalausgaben MR
-  # - "97130029"   # Freies Budget NK
-  # - "97130030"   # Freies Budget AO
-  # - "97130088"   # Sach- und Personalausgaben MR
-  # - "P23720740"  # FIM Studiengang
-  # - "P70102372"  # Restmittelkostenstelle TE
-  # - "P70262372"  # Gemeinsame Restmittelkostenstelle
-  # - "P00492371"  # Projektkostenstelle IncoTech4Seniors
+  # - "23000720"   # Wi-inf & DEM, Strüker        | Haushaltsmittel JS
+  # - "23000740"   # Wirt.inform.III, Röglinger   | Haushaltsmittel MR
+  # - "23004000"   # Wirt.informatik, Kühl        | Haushaltsmittel NK
+  # - "23004050"   # Wirtinformatik, Oberländer   | Haushaltsmittel AO
+
+  # ── Institutionen: Investitionsmittel ─────────────────
+  # - "23764000"   # Wirt.informatik, Kühl        | Investitionsmittel NK
+  # - "23764050"   # Wirtinformatik, Oberländer   | Investitionsmittel AO
+
+  # ── Institutionen: Literaturmittel ────────────────────
+  # - "40000434"   # Lit. BM Röglinger            | Literaturmittel MR
+  # - "40000441"   # Lit. BM Kühl                 | Literaturmittel NK
+  # - "40000442"   # Lit. BM Oberländer           | Literaturmittel AO
+
+  # ── Institutionen: Ersatzmittel (EM Sammelkonten) ─────
+  # - "41710021"   # EM Sammelk. Prof. Röglinger  | Ersatzmittel MR
+  # - "41920309"   # EM Sammelk., Prof. Oberländer| Ersatzmittel AO
+  # - "41920314"   # EM Sammelk., Prof. Kühl      | Ersatzmittel NK
+  # - "41920315"   # EM Sammelk., Prof. Rückert   | Ersatzmittel Rückert
+
+  # ── Institutionen: Budgets ────────────────────────────
+  # - "97130008"   # Budget Pr. Röglinger 260T    | Sach- und Personalausgaben MR
+  # - "97130029"   # Budget Prof. Kühl 75 TEUR    | Freies Budget NK
+  # - "97130030"   # Budget Prof. Oberländer 30T  | Freies Budget AO
+  # - "97130088"   # Budget Pr. Röglinger 50T     | Sach- und Personalausgaben MR
+
+  # ── Projekte: Drittmittel ─────────────────────────────
+  # - "P00067172"  # OFS, FP01133+FP01757, Beermann | TIHO
+  # - "P00352371"  # 16DHBKI005, Eymann T.        | ABBA – AI for Business
+  # - "P00482371"  # 03DPS1054A, Röglinger M.     | IncoTech4Seniors (läuft nicht mehr)
+  # - "P00492371"  # 03DPS1053A, Röglinger M.     | IncoTech4Seniors
+  # - "P01302372"  # DIK-2209-0017                | QUAPRO (läuft nicht mehr)
+  # - "P00422371"   # 13IHS201, Beermann P.       | RIA
+  # - "P00482372"   # VW Stiftung, Oberländer    | Bridging the Gap
+  # - "P00822372"   # FoGG, Kühl                  | FoGG
+  # - "P00442172"   # VW Stiftung, Rückert        | FAIRLEA
+  # - "P21802372"  # AF Fraunhofer, Röglinger     
+  # - "P32169693"  # EFRE-STEP - TT4KMU - Döpper  | TT4KMU
+
+  # ── Projekte: Spenden / Zuwendungen ───────────────────
+  # - "P23000700"  # Zuw. m. steuerl. Besch., Eymann
+  # - "P23000701"  # Spende/Zusch. freiverf., Eymann
+  # - "P23000740"  # Spende/Zusch. zweckg., Röglinger
+  # - "P23720700"  # Zuw. m. steuerl. Besch., Eymann
+  # - "P23720740"  # Spende/Zusch. zweckg., Röglinger | FIM Studiengang
+
+  # ── Projekte: Restmittel ──────────────────────────────
+  # - "P70102372"  # Restmittelkonto, Eymann      | Restmittelkostenstelle TE
+  # - "P70262372"  # Restmittelkonto Urb./Rög./Strü | Gemeinsame Restmittelkostenstelle
 
 zeitraum:
   # Modi: "vormonat", "aktueller_monat", "aktuelles_jahr", "manuell"
